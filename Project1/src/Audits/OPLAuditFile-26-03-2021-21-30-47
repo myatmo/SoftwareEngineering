@@ -1,0 +1,30 @@
+OPL Election Run Audit
+OPL voting info collection
+Starting read from file
+Number of candidates set to: 6
+Added Pike, D with 0,  to list
+Added Foster, D with 0,  to list
+Added Deutsch, R with 0,  to list
+Added Borg, R with 0,  to list
+Added Jones, R with 0,  to list
+Added Smith, I with 0,  to list
+Set number of seats to 0
+Set number of ballots to 9
+Process ballot 0: 1,,,,,
+given to Pike, D with 1
+Process ballot 1: 1,,,,,
+given to Pike, D with 2
+Process ballot 2: ,1,,,,
+given to Foster, D with 1
+Process ballot 3: ,,,,1,
+given to Jones, R with 1
+Process ballot 4: ,,,,,1
+given to Smith, I with 1
+Process ballot 5: ,,,1,,
+given to Borg, R with 1
+Process ballot 6: ,,,1,,
+given to Borg, R with 2
+Process ballot 7: 1,,,,,
+given to Pike, D with 3
+Process ballot 8: ,1,,,,
+given to Foster, D with 2

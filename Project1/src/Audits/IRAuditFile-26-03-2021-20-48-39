@@ -1,0 +1,48 @@
+IR Election Run Audit
+Number of candidates set to: 4
+Added Rosen, D with 0,  to list
+Added Kleinberg, R with 0,  to list
+Added Chou, I with 0,  to list
+Added Royce, I with 0,  to list
+Set number of ballots to 6
+Process ballot 0: 1,3,4,2 given to Rosen, D with 1
+Process ballot 1: 1,,2, given to Rosen, D with 2
+Process ballot 2: 1,2,3, given to Rosen, D with 3
+Process ballot 3: 3,2,1,4 given to Chou, I with 1
+Process ballot 4: 2,,1,2 given to Chou, I with 2
+Process ballot 5: 3,,,1 given to Royce, I with 1
+Majority to win calculated: 3
+Minimum vote count: 0
+Adding loser to list in case of tie: Kleinberg, R with 0
+Setting Rosen, D with 3 new number of votes to 3
+Updated votes for Rosen, D with 3
+Kleinberg, R with 0 Eliminated!
+Updated votes for Kleinberg, R with 0
+Setting Chou, I with 2 new number of votes to 2
+Updated votes for Chou, I with 2
+Setting Royce, I with 1 new number of votes to 1
+Updated votes for Royce, I with 1
+Kleinberg, R with 0 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 1
+Adding loser to list in case of tie: Royce, I with 1
+Transferring ballot 5 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Rosen, D with 3 gets the vote!
+Setting Rosen, D with 4 new number of votes to 4
+Updated votes for Rosen, D with 4
+Kleinberg, R with 0 Eliminated!
+Updated votes for Kleinberg, R with 0
+Setting Chou, I with 2 new number of votes to 2
+Updated votes for Chou, I with 2
+Royce, I with 0 Eliminated!
+Updated votes for Royce, I with 0
+Royce, I with 1 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Rosen, D with 4 won the election!

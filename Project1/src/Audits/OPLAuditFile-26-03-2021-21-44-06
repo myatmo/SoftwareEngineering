@@ -1,0 +1,1879 @@
+OPL Election Run Audit
+OPL voting info collection
+Starting read from file
+Number of candidates set to: 5
+Added Joe, D with 0,  to list
+Added Craig , R with 0,  to list
+Added Kevin, I with 0,  to list
+Added Smith, I with 0,  to list
+Added Armada, I with 0,  to list
+Set number of seats to 3
+Set number of ballots to 912
+Process ballot 0: 1,,,,
+given to Joe, D with 1
+Process ballot 1: ,1,,,
+given to Craig , R with 1
+Process ballot 2: 1,,,,
+given to Joe, D with 2
+Process ballot 3: 1,,,,
+given to Joe, D with 3
+Process ballot 4: ,,1,,
+given to Kevin, I with 1
+Process ballot 5: ,,,1,
+given to Smith, I with 1
+Process ballot 6: ,,,,1
+given to Armada, I with 1
+Process ballot 7: ,,1,,
+given to Kevin, I with 2
+Process ballot 8: ,,,1,
+given to Smith, I with 2
+Process ballot 9: ,,,,1
+given to Armada, I with 2
+Process ballot 10: ,,1,,
+given to Kevin, I with 3
+Process ballot 11: ,,,1,
+given to Smith, I with 3
+Process ballot 12: ,,,,1
+given to Armada, I with 3
+Process ballot 13: ,,1,,
+given to Kevin, I with 4
+Process ballot 14: ,,,1,
+given to Smith, I with 4
+Process ballot 15: ,,,,1
+given to Armada, I with 4
+Process ballot 16: ,,1,,
+given to Kevin, I with 5
+Process ballot 17: ,,,1,
+given to Smith, I with 5
+Process ballot 18: ,,,,1
+given to Armada, I with 5
+Process ballot 19: ,,1,,
+given to Kevin, I with 6
+Process ballot 20: ,,,1,
+given to Smith, I with 6
+Process ballot 21: ,,,,1
+given to Armada, I with 6
+Process ballot 22: ,,1,,
+given to Kevin, I with 7
+Process ballot 23: ,,,1,
+given to Smith, I with 7
+Process ballot 24: ,,,,1
+given to Armada, I with 7
+Process ballot 25: ,,1,,
+given to Kevin, I with 8
+Process ballot 26: ,,,1,
+given to Smith, I with 8
+Process ballot 27: ,,,,1
+given to Armada, I with 8
+Process ballot 28: ,,1,,
+given to Kevin, I with 9
+Process ballot 29: ,,,1,
+given to Smith, I with 9
+Process ballot 30: ,,,,1
+given to Armada, I with 9
+Process ballot 31: ,,1,,
+given to Kevin, I with 10
+Process ballot 32: ,,,1,
+given to Smith, I with 10
+Process ballot 33: ,,,,1
+given to Armada, I with 10
+Process ballot 34: ,,1,,
+given to Kevin, I with 11
+Process ballot 35: ,,,1,
+given to Smith, I with 11
+Process ballot 36: ,,,,1
+given to Armada, I with 11
+Process ballot 37: ,,1,,
+given to Kevin, I with 12
+Process ballot 38: ,,,1,
+given to Smith, I with 12
+Process ballot 39: ,,,,1
+given to Armada, I with 12
+Process ballot 40: ,,1,,
+given to Kevin, I with 13
+Process ballot 41: ,,,1,
+given to Smith, I with 13
+Process ballot 42: ,,,,1
+given to Armada, I with 13
+Process ballot 43: ,,1,,
+given to Kevin, I with 14
+Process ballot 44: ,,,1,
+given to Smith, I with 14
+Process ballot 45: ,,,,1
+given to Armada, I with 14
+Process ballot 46: ,,1,,
+given to Kevin, I with 15
+Process ballot 47: ,,,1,
+given to Smith, I with 15
+Process ballot 48: ,,,,1
+given to Armada, I with 15
+Process ballot 49: ,,1,,
+given to Kevin, I with 16
+Process ballot 50: ,,,1,
+given to Smith, I with 16
+Process ballot 51: ,,,,1
+given to Armada, I with 16
+Process ballot 52: 1,,,,
+given to Joe, D with 4
+Process ballot 53: ,,,,1
+given to Armada, I with 17
+Process ballot 54: ,,1,,
+given to Kevin, I with 17
+Process ballot 55: ,,,1,
+given to Smith, I with 17
+Process ballot 56: ,,,,1
+given to Armada, I with 18
+Process ballot 57: 1,,,,
+given to Joe, D with 5
+Process ballot 58: ,1,,,
+given to Craig , R with 2
+Process ballot 59: ,,,1,
+given to Smith, I with 18
+Process ballot 60: ,,,,1
+given to Armada, I with 19
+Process ballot 61: ,,1,,
+given to Kevin, I with 18
+Process ballot 62: ,,,1,
+given to Smith, I with 19
+Process ballot 63: ,,,,1
+given to Armada, I with 20
+Process ballot 64: ,,1,,
+given to Kevin, I with 19
+Process ballot 65: ,,,1,
+given to Smith, I with 20
+Process ballot 66: ,,,,1
+given to Armada, I with 21
+Process ballot 67: ,,1,,
+given to Kevin, I with 20
+Process ballot 68: ,,,1,
+given to Smith, I with 21
+Process ballot 69: ,,,,1
+given to Armada, I with 22
+Process ballot 70: ,,1,,
+given to Kevin, I with 21
+Process ballot 71: ,,,1,
+given to Smith, I with 22
+Process ballot 72: ,,,,1
+given to Armada, I with 23
+Process ballot 73: 1,,,,
+given to Joe, D with 6
+Process ballot 74: ,,,,1
+given to Armada, I with 24
+Process ballot 75: ,,1,,
+given to Kevin, I with 22
+Process ballot 76: ,,,1,
+given to Smith, I with 23
+Process ballot 77: ,,,,1
+given to Armada, I with 25
+Process ballot 78: 1,,,,
+given to Joe, D with 7
+Process ballot 79: ,1,,,
+given to Craig , R with 3
+Process ballot 80: ,,1,,
+given to Kevin, I with 23
+Process ballot 81: ,,,1,
+given to Smith, I with 24
+Process ballot 82: ,,,,1
+given to Armada, I with 26
+Process ballot 83: ,,1,,
+given to Kevin, I with 24
+Process ballot 84: ,,,1,
+given to Smith, I with 25
+Process ballot 85: ,,,,1
+given to Armada, I with 27
+Process ballot 86: ,,1,,
+given to Kevin, I with 25
+Process ballot 87: ,,,1,
+given to Smith, I with 26
+Process ballot 88: ,,,,1
+given to Armada, I with 28
+Process ballot 89: ,,1,,
+given to Kevin, I with 26
+Process ballot 90: ,,,1,
+given to Smith, I with 27
+Process ballot 91: ,,,,1
+given to Armada, I with 29
+Process ballot 92: ,,1,,
+given to Kevin, I with 27
+Process ballot 93: ,,,1,
+given to Smith, I with 28
+Process ballot 94: ,,,,1
+given to Armada, I with 30
+Process ballot 95: ,,1,,
+given to Kevin, I with 28
+Process ballot 96: ,,,1,
+given to Smith, I with 29
+Process ballot 97: ,,,,1
+given to Armada, I with 31
+Process ballot 98: ,,1,,
+given to Kevin, I with 29
+Process ballot 99: ,,,1,
+given to Smith, I with 30
+Process ballot 100: ,,,,1
+given to Armada, I with 32
+Process ballot 101: ,,1,,
+given to Kevin, I with 30
+Process ballot 102: ,,,1,
+given to Smith, I with 31
+Process ballot 103: ,,,,1
+given to Armada, I with 33
+Process ballot 104: ,,1,,
+given to Kevin, I with 31
+Process ballot 105: ,,,1,
+given to Smith, I with 32
+Process ballot 106: ,,,,1
+given to Armada, I with 34
+Process ballot 107: ,,1,,
+given to Kevin, I with 32
+Process ballot 108: ,,,1,
+given to Smith, I with 33
+Process ballot 109: ,,,,1
+given to Armada, I with 35
+Process ballot 110: ,,1,,
+given to Kevin, I with 33
+Process ballot 111: ,,,1,
+given to Smith, I with 34
+Process ballot 112: ,,,,1
+given to Armada, I with 36
+Process ballot 113: ,,1,,
+given to Kevin, I with 34
+Process ballot 114: ,,,1,
+given to Smith, I with 35
+Process ballot 115: ,,,,1
+given to Armada, I with 37
+Process ballot 116: ,,1,,
+given to Kevin, I with 35
+Process ballot 117: ,,,1,
+given to Smith, I with 36
+Process ballot 118: ,,,,1
+given to Armada, I with 38
+Process ballot 119: ,,1,,
+given to Kevin, I with 36
+Process ballot 120: ,,,1,
+given to Smith, I with 37
+Process ballot 121: ,,,,1
+given to Armada, I with 39
+Process ballot 122: ,,1,,
+given to Kevin, I with 37
+Process ballot 123: ,,,1,
+given to Smith, I with 38
+Process ballot 124: ,,,,1
+given to Armada, I with 40
+Process ballot 125: 1,,,,
+given to Joe, D with 8
+Process ballot 126: ,,,,1
+given to Armada, I with 41
+Process ballot 127: ,,1,,
+given to Kevin, I with 38
+Process ballot 128: ,,,1,
+given to Smith, I with 39
+Process ballot 129: ,,,,1
+given to Armada, I with 42
+Process ballot 130: 1,,,,
+given to Joe, D with 9
+Process ballot 131: ,1,,,
+given to Craig , R with 4
+Process ballot 132: ,,,1,
+given to Smith, I with 40
+Process ballot 133: ,,,,1
+given to Armada, I with 43
+Process ballot 134: ,,1,,
+given to Kevin, I with 39
+Process ballot 135: ,,,1,
+given to Smith, I with 41
+Process ballot 136: ,,,,1
+given to Armada, I with 44
+Process ballot 137: ,,1,,
+given to Kevin, I with 40
+Process ballot 138: ,,,1,
+given to Smith, I with 42
+Process ballot 139: ,,,,1
+given to Armada, I with 45
+Process ballot 140: ,,1,,
+given to Kevin, I with 41
+Process ballot 141: ,,,1,
+given to Smith, I with 43
+Process ballot 142: ,,,,1
+given to Armada, I with 46
+Process ballot 143: ,,1,,
+given to Kevin, I with 42
+Process ballot 144: ,,,1,
+given to Smith, I with 44
+Process ballot 145: ,,,,1
+given to Armada, I with 47
+Process ballot 146: 1,,,,
+given to Joe, D with 10
+Process ballot 147: ,,,,1
+given to Armada, I with 48
+Process ballot 148: ,,1,,
+given to Kevin, I with 43
+Process ballot 149: ,,,1,
+given to Smith, I with 45
+Process ballot 150: ,,,,1
+given to Armada, I with 49
+Process ballot 151: 1,,,,
+given to Joe, D with 11
+Process ballot 152: ,1,,,
+given to Craig , R with 5
+Process ballot 153: ,,1,,
+given to Kevin, I with 44
+Process ballot 154: ,,,1,
+given to Smith, I with 46
+Process ballot 155: ,,,,1
+given to Armada, I with 50
+Process ballot 156: ,,1,,
+given to Kevin, I with 45
+Process ballot 157: ,,,1,
+given to Smith, I with 47
+Process ballot 158: ,,,,1
+given to Armada, I with 51
+Process ballot 159: ,,1,,
+given to Kevin, I with 46
+Process ballot 160: ,,,1,
+given to Smith, I with 48
+Process ballot 161: ,,,,1
+given to Armada, I with 52
+Process ballot 162: ,,1,,
+given to Kevin, I with 47
+Process ballot 163: ,,,1,
+given to Smith, I with 49
+Process ballot 164: ,,,,1
+given to Armada, I with 53
+Process ballot 165: 1,,,,
+given to Joe, D with 12
+Process ballot 166: ,,,,1
+given to Armada, I with 54
+Process ballot 167: ,,1,,
+given to Kevin, I with 48
+Process ballot 168: ,,,1,
+given to Smith, I with 50
+Process ballot 169: ,,,,1
+given to Armada, I with 55
+Process ballot 170: 1,,,,
+given to Joe, D with 13
+Process ballot 171: ,1,,,
+given to Craig , R with 6
+Process ballot 172: ,,,1,
+given to Smith, I with 51
+Process ballot 173: ,,,,1
+given to Armada, I with 56
+Process ballot 174: ,,1,,
+given to Kevin, I with 49
+Process ballot 175: ,,,1,
+given to Smith, I with 52
+Process ballot 176: ,,1,,
+given to Kevin, I with 50
+Process ballot 177: ,,,1,
+given to Smith, I with 53
+Process ballot 178: ,,,,1
+given to Armada, I with 57
+Process ballot 179: 1,,,,
+given to Joe, D with 14
+Process ballot 180: ,,,,1
+given to Armada, I with 58
+Process ballot 181: ,,1,,
+given to Kevin, I with 51
+Process ballot 182: ,,,1,
+given to Smith, I with 54
+Process ballot 183: ,,,,1
+given to Armada, I with 59
+Process ballot 184: 1,,,,
+given to Joe, D with 15
+Process ballot 185: ,1,,,
+given to Craig , R with 7
+Process ballot 186: ,,,1,
+given to Smith, I with 55
+Process ballot 187: ,,,,1
+given to Armada, I with 60
+Process ballot 188: ,,1,,
+given to Kevin, I with 52
+Process ballot 189: ,,,1,
+given to Smith, I with 56
+Process ballot 190: ,,,,1
+given to Armada, I with 61
+Process ballot 191: ,,1,,
+given to Kevin, I with 53
+Process ballot 192: ,1,,,
+given to Craig , R with 8
+Process ballot 193: 1,,,,
+given to Joe, D with 16
+Process ballot 194: 1,,,,
+given to Joe, D with 17
+Process ballot 195: ,,1,,
+given to Kevin, I with 54
+Process ballot 196: ,,,1,
+given to Smith, I with 57
+Process ballot 197: ,,,,1
+given to Armada, I with 62
+Process ballot 198: ,,1,,
+given to Kevin, I with 55
+Process ballot 199: ,,,1,
+given to Smith, I with 58
+Process ballot 200: ,,,,1
+given to Armada, I with 63
+Process ballot 201: ,,1,,
+given to Kevin, I with 56
+Process ballot 202: ,,,1,
+given to Smith, I with 59
+Process ballot 203: ,,,,1
+given to Armada, I with 64
+Process ballot 204: ,,1,,
+given to Kevin, I with 57
+Process ballot 205: ,,,1,
+given to Smith, I with 60
+Process ballot 206: ,,,,1
+given to Armada, I with 65
+Process ballot 207: ,,1,,
+given to Kevin, I with 58
+Process ballot 208: ,,,1,
+given to Smith, I with 61
+Process ballot 209: ,,,,1
+given to Armada, I with 66
+Process ballot 210: ,,1,,
+given to Kevin, I with 59
+Process ballot 211: ,,,1,
+given to Smith, I with 62
+Process ballot 212: ,,,,1
+given to Armada, I with 67
+Process ballot 213: ,,1,,
+given to Kevin, I with 60
+Process ballot 214: ,,,1,
+given to Smith, I with 63
+Process ballot 215: ,,,,1
+given to Armada, I with 68
+Process ballot 216: ,,1,,
+given to Kevin, I with 61
+Process ballot 217: ,,,1,
+given to Smith, I with 64
+Process ballot 218: ,,,,1
+given to Armada, I with 69
+Process ballot 219: ,,1,,
+given to Kevin, I with 62
+Process ballot 220: ,,,1,
+given to Smith, I with 65
+Process ballot 221: ,,,,1
+given to Armada, I with 70
+Process ballot 222: ,,1,,
+given to Kevin, I with 63
+Process ballot 223: ,,,1,
+given to Smith, I with 66
+Process ballot 224: ,,,,1
+given to Armada, I with 71
+Process ballot 225: ,,1,,
+given to Kevin, I with 64
+Process ballot 226: ,,,1,
+given to Smith, I with 67
+Process ballot 227: ,,,,1
+given to Armada, I with 72
+Process ballot 228: ,,1,,
+given to Kevin, I with 65
+Process ballot 229: ,,,1,
+given to Smith, I with 68
+Process ballot 230: ,,,,1
+given to Armada, I with 73
+Process ballot 231: ,,1,,
+given to Kevin, I with 66
+Process ballot 232: ,,,1,
+given to Smith, I with 69
+Process ballot 233: ,,,,1
+given to Armada, I with 74
+Process ballot 234: ,,1,,
+given to Kevin, I with 67
+Process ballot 235: ,,,1,
+given to Smith, I with 70
+Process ballot 236: ,,,,1
+given to Armada, I with 75
+Process ballot 237: ,,1,,
+given to Kevin, I with 68
+Process ballot 238: ,,,1,
+given to Smith, I with 71
+Process ballot 239: ,,,,1
+given to Armada, I with 76
+Process ballot 240: ,,1,,
+given to Kevin, I with 69
+Process ballot 241: ,,,1,
+given to Smith, I with 72
+Process ballot 242: ,,,,1
+given to Armada, I with 77
+Process ballot 243: 1,,,,
+given to Joe, D with 18
+Process ballot 244: ,,,,1
+given to Armada, I with 78
+Process ballot 245: ,,1,,
+given to Kevin, I with 70
+Process ballot 246: ,,,1,
+given to Smith, I with 73
+Process ballot 247: ,,,,1
+given to Armada, I with 79
+Process ballot 248: 1,,,,
+given to Joe, D with 19
+Process ballot 249: ,1,,,
+given to Craig , R with 9
+Process ballot 250: ,,,1,
+given to Smith, I with 74
+Process ballot 251: ,,,,1
+given to Armada, I with 80
+Process ballot 252: ,,1,,
+given to Kevin, I with 71
+Process ballot 253: ,,,1,
+given to Smith, I with 75
+Process ballot 254: ,,,,1
+given to Armada, I with 81
+Process ballot 255: ,,1,,
+given to Kevin, I with 72
+Process ballot 256: ,,,1,
+given to Smith, I with 76
+Process ballot 257: ,,,,1
+given to Armada, I with 82
+Process ballot 258: ,,1,,
+given to Kevin, I with 73
+Process ballot 259: ,,,1,
+given to Smith, I with 77
+Process ballot 260: ,,,,1
+given to Armada, I with 83
+Process ballot 261: ,,1,,
+given to Kevin, I with 74
+Process ballot 262: ,,,1,
+given to Smith, I with 78
+Process ballot 263: ,,,,1
+given to Armada, I with 84
+Process ballot 264: 1,,,,
+given to Joe, D with 20
+Process ballot 265: ,,,,1
+given to Armada, I with 85
+Process ballot 266: ,,1,,
+given to Kevin, I with 75
+Process ballot 267: ,,,1,
+given to Smith, I with 79
+Process ballot 268: ,,,,1
+given to Armada, I with 86
+Process ballot 269: 1,,,,
+given to Joe, D with 21
+Process ballot 270: ,1,,,
+given to Craig , R with 10
+Process ballot 271: ,,1,,
+given to Kevin, I with 76
+Process ballot 272: ,,,1,
+given to Smith, I with 80
+Process ballot 273: ,,,,1
+given to Armada, I with 87
+Process ballot 274: ,,1,,
+given to Kevin, I with 77
+Process ballot 275: ,,,1,
+given to Smith, I with 81
+Process ballot 276: ,,,,1
+given to Armada, I with 88
+Process ballot 277: ,,1,,
+given to Kevin, I with 78
+Process ballot 278: ,,,1,
+given to Smith, I with 82
+Process ballot 279: ,,,,1
+given to Armada, I with 89
+Process ballot 280: ,,1,,
+given to Kevin, I with 79
+Process ballot 281: ,,,1,
+given to Smith, I with 83
+Process ballot 282: ,,,,1
+given to Armada, I with 90
+Process ballot 283: ,,1,,
+given to Kevin, I with 80
+Process ballot 284: ,,,1,
+given to Smith, I with 84
+Process ballot 285: ,,,,1
+given to Armada, I with 91
+Process ballot 286: ,,1,,
+given to Kevin, I with 81
+Process ballot 287: ,,,1,
+given to Smith, I with 85
+Process ballot 288: ,,,,1
+given to Armada, I with 92
+Process ballot 289: ,,1,,
+given to Kevin, I with 82
+Process ballot 290: ,,,1,
+given to Smith, I with 86
+Process ballot 291: ,,,,1
+given to Armada, I with 93
+Process ballot 292: ,,1,,
+given to Kevin, I with 83
+Process ballot 293: ,,,1,
+given to Smith, I with 87
+Process ballot 294: ,,,,1
+given to Armada, I with 94
+Process ballot 295: ,,1,,
+given to Kevin, I with 84
+Process ballot 296: ,,,1,
+given to Smith, I with 88
+Process ballot 297: ,,,,1
+given to Armada, I with 95
+Process ballot 298: ,,1,,
+given to Kevin, I with 85
+Process ballot 299: ,,,1,
+given to Smith, I with 89
+Process ballot 300: ,,,,1
+given to Armada, I with 96
+Process ballot 301: ,,1,,
+given to Kevin, I with 86
+Process ballot 302: ,,,1,
+given to Smith, I with 90
+Process ballot 303: ,,,,1
+given to Armada, I with 97
+Process ballot 304: ,,1,,
+given to Kevin, I with 87
+Process ballot 305: ,,,1,
+given to Smith, I with 91
+Process ballot 306: ,,,,1
+given to Armada, I with 98
+Process ballot 307: ,,1,,
+given to Kevin, I with 88
+Process ballot 308: ,,,1,
+given to Smith, I with 92
+Process ballot 309: ,,,,1
+given to Armada, I with 99
+Process ballot 310: ,,1,,
+given to Kevin, I with 89
+Process ballot 311: ,,,1,
+given to Smith, I with 93
+Process ballot 312: ,,,,1
+given to Armada, I with 100
+Process ballot 313: ,,1,,
+given to Kevin, I with 90
+Process ballot 314: ,,,1,
+given to Smith, I with 94
+Process ballot 315: ,,,,1
+given to Armada, I with 101
+Process ballot 316: 1,,,,
+given to Joe, D with 22
+Process ballot 317: ,,,,1
+given to Armada, I with 102
+Process ballot 318: ,,1,,
+given to Kevin, I with 91
+Process ballot 319: ,,,1,
+given to Smith, I with 95
+Process ballot 320: ,,,,1
+given to Armada, I with 103
+Process ballot 321: 1,,,,
+given to Joe, D with 23
+Process ballot 322: ,1,,,
+given to Craig , R with 11
+Process ballot 323: ,,,1,
+given to Smith, I with 96
+Process ballot 324: ,,,,1
+given to Armada, I with 104
+Process ballot 325: ,,1,,
+given to Kevin, I with 92
+Process ballot 326: ,,,1,
+given to Smith, I with 97
+Process ballot 327: ,,,,1
+given to Armada, I with 105
+Process ballot 328: ,,1,,
+given to Kevin, I with 93
+Process ballot 329: ,,,1,
+given to Smith, I with 98
+Process ballot 330: ,,,,1
+given to Armada, I with 106
+Process ballot 331: ,,1,,
+given to Kevin, I with 94
+Process ballot 332: ,,,1,
+given to Smith, I with 99
+Process ballot 333: ,,,,1
+given to Armada, I with 107
+Process ballot 334: ,,1,,
+given to Kevin, I with 95
+Process ballot 335: ,,,1,
+given to Smith, I with 100
+Process ballot 336: ,,,,1
+given to Armada, I with 108
+Process ballot 337: 1,,,,
+given to Joe, D with 24
+Process ballot 338: ,,,,1
+given to Armada, I with 109
+Process ballot 339: ,,1,,
+given to Kevin, I with 96
+Process ballot 340: ,,,1,
+given to Smith, I with 101
+Process ballot 341: ,,,,1
+given to Armada, I with 110
+Process ballot 342: 1,,,,
+given to Joe, D with 25
+Process ballot 343: ,1,,,
+given to Craig , R with 12
+Process ballot 344: ,,1,,
+given to Kevin, I with 97
+Process ballot 345: ,,,1,
+given to Smith, I with 102
+Process ballot 346: ,,,,1
+given to Armada, I with 111
+Process ballot 347: ,,1,,
+given to Kevin, I with 98
+Process ballot 348: ,,,1,
+given to Smith, I with 103
+Process ballot 349: ,,,,1
+given to Armada, I with 112
+Process ballot 350: ,,1,,
+given to Kevin, I with 99
+Process ballot 351: ,,,1,
+given to Smith, I with 104
+Process ballot 352: ,,,,1
+given to Armada, I with 113
+Process ballot 353: ,,1,,
+given to Kevin, I with 100
+Process ballot 354: ,,,1,
+given to Smith, I with 105
+Process ballot 355: ,,,,1
+given to Armada, I with 114
+Process ballot 356: 1,,,,
+given to Joe, D with 26
+Process ballot 357: ,,,,1
+given to Armada, I with 115
+Process ballot 358: ,,1,,
+given to Kevin, I with 101
+Process ballot 359: ,,,1,
+given to Smith, I with 106
+Process ballot 360: ,,,,1
+given to Armada, I with 116
+Process ballot 361: 1,,,,
+given to Joe, D with 27
+Process ballot 362: ,1,,,
+given to Craig , R with 13
+Process ballot 363: ,,,1,
+given to Smith, I with 107
+Process ballot 364: ,,,,1
+given to Armada, I with 117
+Process ballot 365: ,,1,,
+given to Kevin, I with 102
+Process ballot 366: ,,,1,
+given to Smith, I with 108
+Process ballot 367: ,,1,,
+given to Kevin, I with 103
+Process ballot 368: ,,,1,
+given to Smith, I with 109
+Process ballot 369: ,,,,1
+given to Armada, I with 118
+Process ballot 370: 1,,,,
+given to Joe, D with 28
+Process ballot 371: 1,,,,
+given to Joe, D with 29
+Process ballot 372: 1,,,,
+given to Joe, D with 30
+Process ballot 373: 1,,,,
+given to Joe, D with 31
+Process ballot 374: ,1,,,
+given to Craig , R with 14
+Process ballot 375: 1,,,,
+given to Joe, D with 32
+Process ballot 376: ,1,,,
+given to Craig , R with 15
+Process ballot 377: 1,,,,
+given to Joe, D with 33
+Process ballot 378: ,1,,,
+given to Craig , R with 16
+Process ballot 379: 1,,,,
+given to Joe, D with 34
+Process ballot 380: ,1,,,
+given to Craig , R with 17
+Process ballot 381: ,,,,1
+given to Armada, I with 119
+Process ballot 382: ,,1,,
+given to Kevin, I with 104
+Process ballot 383: ,1,,,
+given to Craig , R with 18
+Process ballot 384: 1,,,,
+given to Joe, D with 35
+Process ballot 385: ,1,,,
+given to Craig , R with 19
+Process ballot 386: 1,,,,
+given to Joe, D with 36
+Process ballot 387: ,1,,,
+given to Craig , R with 20
+Process ballot 388: 1,,,,
+given to Joe, D with 37
+Process ballot 389: ,1,,,
+given to Craig , R with 21
+Process ballot 390: 1,,,,
+given to Joe, D with 38
+Process ballot 391: ,1,,,
+given to Craig , R with 22
+Process ballot 392: ,,,,1
+given to Armada, I with 120
+Process ballot 393: ,,1,,
+given to Kevin, I with 105
+Process ballot 394: ,1,,,
+given to Craig , R with 23
+Process ballot 395: ,,,1,
+given to Smith, I with 110
+Process ballot 396: ,,,,1
+given to Armada, I with 121
+Process ballot 397: ,,1,,
+given to Kevin, I with 106
+Process ballot 398: ,,,1,
+given to Smith, I with 111
+Process ballot 399: ,,,,1
+given to Armada, I with 122
+Process ballot 400: ,,1,,
+given to Kevin, I with 107
+Process ballot 401: ,,,1,
+given to Smith, I with 112
+Process ballot 402: ,,,,1
+given to Armada, I with 123
+Process ballot 403: ,,1,,
+given to Kevin, I with 108
+Process ballot 404: ,,,1,
+given to Smith, I with 113
+Process ballot 405: ,,,,1
+given to Armada, I with 124
+Process ballot 406: ,,1,,
+given to Kevin, I with 109
+Process ballot 407: ,,,1,
+given to Smith, I with 114
+Process ballot 408: ,,,,1
+given to Armada, I with 125
+Process ballot 409: ,,1,,
+given to Kevin, I with 110
+Process ballot 410: ,,,1,
+given to Smith, I with 115
+Process ballot 411: ,,,,1
+given to Armada, I with 126
+Process ballot 412: ,,1,,
+given to Kevin, I with 111
+Process ballot 413: ,,,1,
+given to Smith, I with 116
+Process ballot 414: ,,,,1
+given to Armada, I with 127
+Process ballot 415: ,,1,,
+given to Kevin, I with 112
+Process ballot 416: ,,,1,
+given to Smith, I with 117
+Process ballot 417: ,,,,1
+given to Armada, I with 128
+Process ballot 418: ,,1,,
+given to Kevin, I with 113
+Process ballot 419: ,,,1,
+given to Smith, I with 118
+Process ballot 420: ,,,,1
+given to Armada, I with 129
+Process ballot 421: 1,,,,
+given to Joe, D with 39
+Process ballot 422: ,,,,1
+given to Armada, I with 130
+Process ballot 423: ,,1,,
+given to Kevin, I with 114
+Process ballot 424: ,,,1,
+given to Smith, I with 119
+Process ballot 425: 1,,,,
+given to Joe, D with 40
+Process ballot 426: ,,,,1
+given to Armada, I with 131
+Process ballot 427: ,,,1,
+given to Smith, I with 120
+Process ballot 428: ,,,,1
+given to Armada, I with 132
+Process ballot 429: ,,1,,
+given to Kevin, I with 115
+Process ballot 430: ,,,1,
+given to Smith, I with 121
+Process ballot 431: ,,,,1
+given to Armada, I with 133
+Process ballot 432: ,,1,,
+given to Kevin, I with 116
+Process ballot 433: ,,,1,
+given to Smith, I with 122
+Process ballot 434: ,,,,1
+given to Armada, I with 134
+Process ballot 435: ,,1,,
+given to Kevin, I with 117
+Process ballot 436: ,,,1,
+given to Smith, I with 123
+Process ballot 437: ,,,,1
+given to Armada, I with 135
+Process ballot 438: ,,1,,
+given to Kevin, I with 118
+Process ballot 439: ,,,1,
+given to Smith, I with 124
+Process ballot 440: ,,,,1
+given to Armada, I with 136
+Process ballot 441: ,,1,,
+given to Kevin, I with 119
+Process ballot 442: ,,,1,
+given to Smith, I with 125
+Process ballot 443: ,,,,1
+given to Armada, I with 137
+Process ballot 444: ,,1,,
+given to Kevin, I with 120
+Process ballot 445: ,,,1,
+given to Smith, I with 126
+Process ballot 446: ,,,,1
+given to Armada, I with 138
+Process ballot 447: ,,1,,
+given to Kevin, I with 121
+Process ballot 448: ,,,1,
+given to Smith, I with 127
+Process ballot 449: ,,,,1
+given to Armada, I with 139
+Process ballot 450: ,,1,,
+given to Kevin, I with 122
+Process ballot 451: ,,,1,
+given to Smith, I with 128
+Process ballot 452: ,,,,1
+given to Armada, I with 140
+Process ballot 453: 1,,,,
+given to Joe, D with 41
+Process ballot 454: ,,,,1
+given to Armada, I with 141
+Process ballot 455: ,,1,,
+given to Kevin, I with 123
+Process ballot 456: ,,,1,
+given to Smith, I with 129
+Process ballot 457: ,1,,,
+given to Craig , R with 24
+Process ballot 458: 1,,,,
+given to Joe, D with 42
+Process ballot 459: 1,,,,
+given to Joe, D with 43
+Process ballot 460: ,,1,,
+given to Kevin, I with 124
+Process ballot 461: ,,,1,
+given to Smith, I with 130
+Process ballot 462: ,,,,1
+given to Armada, I with 142
+Process ballot 463: ,,1,,
+given to Kevin, I with 125
+Process ballot 464: ,,,1,
+given to Smith, I with 131
+Process ballot 465: ,,,,1
+given to Armada, I with 143
+Process ballot 466: ,,1,,
+given to Kevin, I with 126
+Process ballot 467: ,,,1,
+given to Smith, I with 132
+Process ballot 468: ,,,,1
+given to Armada, I with 144
+Process ballot 469: ,,1,,
+given to Kevin, I with 127
+Process ballot 470: ,,,1,
+given to Smith, I with 133
+Process ballot 471: ,,,,1
+given to Armada, I with 145
+Process ballot 472: ,,1,,
+given to Kevin, I with 128
+Process ballot 473: ,,,1,
+given to Smith, I with 134
+Process ballot 474: ,,,,1
+given to Armada, I with 146
+Process ballot 475: ,,1,,
+given to Kevin, I with 129
+Process ballot 476: ,,,1,
+given to Smith, I with 135
+Process ballot 477: ,,,,1
+given to Armada, I with 147
+Process ballot 478: ,,1,,
+given to Kevin, I with 130
+Process ballot 479: ,,,1,
+given to Smith, I with 136
+Process ballot 480: ,,,,1
+given to Armada, I with 148
+Process ballot 481: ,,1,,
+given to Kevin, I with 131
+Process ballot 482: ,,,1,
+given to Smith, I with 137
+Process ballot 483: ,,,,1
+given to Armada, I with 149
+Process ballot 484: ,,1,,
+given to Kevin, I with 132
+Process ballot 485: ,,,1,
+given to Smith, I with 138
+Process ballot 486: ,,,,1
+given to Armada, I with 150
+Process ballot 487: ,,1,,
+given to Kevin, I with 133
+Process ballot 488: ,,,1,
+given to Smith, I with 139
+Process ballot 489: ,,,,1
+given to Armada, I with 151
+Process ballot 490: ,,1,,
+given to Kevin, I with 134
+Process ballot 491: ,,,1,
+given to Smith, I with 140
+Process ballot 492: ,,,,1
+given to Armada, I with 152
+Process ballot 493: ,,1,,
+given to Kevin, I with 135
+Process ballot 494: ,,,1,
+given to Smith, I with 141
+Process ballot 495: ,,,,1
+given to Armada, I with 153
+Process ballot 496: ,,1,,
+given to Kevin, I with 136
+Process ballot 497: ,,,1,
+given to Smith, I with 142
+Process ballot 498: ,,,,1
+given to Armada, I with 154
+Process ballot 499: ,,1,,
+given to Kevin, I with 137
+Process ballot 500: ,,,1,
+given to Smith, I with 143
+Process ballot 501: ,,,,1
+given to Armada, I with 155
+Process ballot 502: ,,1,,
+given to Kevin, I with 138
+Process ballot 503: ,,,1,
+given to Smith, I with 144
+Process ballot 504: ,,,,1
+given to Armada, I with 156
+Process ballot 505: ,,1,,
+given to Kevin, I with 139
+Process ballot 506: ,,,1,
+given to Smith, I with 145
+Process ballot 507: ,,,,1
+given to Armada, I with 157
+Process ballot 508: 1,,,,
+given to Joe, D with 44
+Process ballot 509: ,,,,1
+given to Armada, I with 158
+Process ballot 510: ,,1,,
+given to Kevin, I with 140
+Process ballot 511: ,,,1,
+given to Smith, I with 146
+Process ballot 512: ,,,,1
+given to Armada, I with 159
+Process ballot 513: 1,,,,
+given to Joe, D with 45
+Process ballot 514: ,1,,,
+given to Craig , R with 25
+Process ballot 515: ,,,1,
+given to Smith, I with 147
+Process ballot 516: ,,,,1
+given to Armada, I with 160
+Process ballot 517: ,,1,,
+given to Kevin, I with 141
+Process ballot 518: ,,,1,
+given to Smith, I with 148
+Process ballot 519: ,,,,1
+given to Armada, I with 161
+Process ballot 520: ,,1,,
+given to Kevin, I with 142
+Process ballot 521: ,,,1,
+given to Smith, I with 149
+Process ballot 522: ,,,,1
+given to Armada, I with 162
+Process ballot 523: ,,1,,
+given to Kevin, I with 143
+Process ballot 524: ,,,1,
+given to Smith, I with 150
+Process ballot 525: ,,,,1
+given to Armada, I with 163
+Process ballot 526: ,,1,,
+given to Kevin, I with 144
+Process ballot 527: ,,,1,
+given to Smith, I with 151
+Process ballot 528: ,,,,1
+given to Armada, I with 164
+Process ballot 529: 1,,,,
+given to Joe, D with 46
+Process ballot 530: ,,,,1
+given to Armada, I with 165
+Process ballot 531: ,,1,,
+given to Kevin, I with 145
+Process ballot 532: ,,,1,
+given to Smith, I with 152
+Process ballot 533: ,,,,1
+given to Armada, I with 166
+Process ballot 534: 1,,,,
+given to Joe, D with 47
+Process ballot 535: ,1,,,
+given to Craig , R with 26
+Process ballot 536: ,,1,,
+given to Kevin, I with 146
+Process ballot 537: ,,,1,
+given to Smith, I with 153
+Process ballot 538: ,,,,1
+given to Armada, I with 167
+Process ballot 539: ,,1,,
+given to Kevin, I with 147
+Process ballot 540: ,,,1,
+given to Smith, I with 154
+Process ballot 541: ,,,,1
+given to Armada, I with 168
+Process ballot 542: ,,1,,
+given to Kevin, I with 148
+Process ballot 543: ,,,1,
+given to Smith, I with 155
+Process ballot 544: ,,,,1
+given to Armada, I with 169
+Process ballot 545: ,,1,,
+given to Kevin, I with 149
+Process ballot 546: ,,,1,
+given to Smith, I with 156
+Process ballot 547: ,,,,1
+given to Armada, I with 170
+Process ballot 548: ,,1,,
+given to Kevin, I with 150
+Process ballot 549: ,,,1,
+given to Smith, I with 157
+Process ballot 550: ,,,,1
+given to Armada, I with 171
+Process ballot 551: ,,1,,
+given to Kevin, I with 151
+Process ballot 552: ,,,1,
+given to Smith, I with 158
+Process ballot 553: ,,,,1
+given to Armada, I with 172
+Process ballot 554: ,,1,,
+given to Kevin, I with 152
+Process ballot 555: ,,,1,
+given to Smith, I with 159
+Process ballot 556: ,,,,1
+given to Armada, I with 173
+Process ballot 557: ,,1,,
+given to Kevin, I with 153
+Process ballot 558: ,,,1,
+given to Smith, I with 160
+Process ballot 559: ,,,,1
+given to Armada, I with 174
+Process ballot 560: ,,1,,
+given to Kevin, I with 154
+Process ballot 561: ,,,1,
+given to Smith, I with 161
+Process ballot 562: ,,,,1
+given to Armada, I with 175
+Process ballot 563: ,,1,,
+given to Kevin, I with 155
+Process ballot 564: ,,,1,
+given to Smith, I with 162
+Process ballot 565: ,,,,1
+given to Armada, I with 176
+Process ballot 566: ,,1,,
+given to Kevin, I with 156
+Process ballot 567: ,,,1,
+given to Smith, I with 163
+Process ballot 568: ,,,,1
+given to Armada, I with 177
+Process ballot 569: ,,1,,
+given to Kevin, I with 157
+Process ballot 570: ,,,1,
+given to Smith, I with 164
+Process ballot 571: ,,,,1
+given to Armada, I with 178
+Process ballot 572: ,,1,,
+given to Kevin, I with 158
+Process ballot 573: ,,,1,
+given to Smith, I with 165
+Process ballot 574: ,,,,1
+given to Armada, I with 179
+Process ballot 575: ,,1,,
+given to Kevin, I with 159
+Process ballot 576: ,,,1,
+given to Smith, I with 166
+Process ballot 577: ,,,,1
+given to Armada, I with 180
+Process ballot 578: ,,1,,
+given to Kevin, I with 160
+Process ballot 579: ,,,1,
+given to Smith, I with 167
+Process ballot 580: ,,,,1
+given to Armada, I with 181
+Process ballot 581: 1,,,,
+given to Joe, D with 48
+Process ballot 582: ,,,,1
+given to Armada, I with 182
+Process ballot 583: ,,1,,
+given to Kevin, I with 161
+Process ballot 584: ,,,1,
+given to Smith, I with 168
+Process ballot 585: ,,,,1
+given to Armada, I with 183
+Process ballot 586: 1,,,,
+given to Joe, D with 49
+Process ballot 587: ,1,,,
+given to Craig , R with 27
+Process ballot 588: ,,,1,
+given to Smith, I with 169
+Process ballot 589: ,,,,1
+given to Armada, I with 184
+Process ballot 590: ,,1,,
+given to Kevin, I with 162
+Process ballot 591: ,,,1,
+given to Smith, I with 170
+Process ballot 592: ,,,,1
+given to Armada, I with 185
+Process ballot 593: ,,1,,
+given to Kevin, I with 163
+Process ballot 594: ,,,1,
+given to Smith, I with 171
+Process ballot 595: ,,,,1
+given to Armada, I with 186
+Process ballot 596: ,,1,,
+given to Kevin, I with 164
+Process ballot 597: ,,,1,
+given to Smith, I with 172
+Process ballot 598: ,,,,1
+given to Armada, I with 187
+Process ballot 599: ,,1,,
+given to Kevin, I with 165
+Process ballot 600: ,,,1,
+given to Smith, I with 173
+Process ballot 601: ,,,,1
+given to Armada, I with 188
+Process ballot 602: 1,,,,
+given to Joe, D with 50
+Process ballot 603: ,,,,1
+given to Armada, I with 189
+Process ballot 604: ,,1,,
+given to Kevin, I with 166
+Process ballot 605: ,,,1,
+given to Smith, I with 174
+Process ballot 606: ,,,,1
+given to Armada, I with 190
+Process ballot 607: 1,,,,
+given to Joe, D with 51
+Process ballot 608: ,1,,,
+given to Craig , R with 28
+Process ballot 609: ,,1,,
+given to Kevin, I with 167
+Process ballot 610: ,,,1,
+given to Smith, I with 175
+Process ballot 611: ,,,,1
+given to Armada, I with 191
+Process ballot 612: ,,1,,
+given to Kevin, I with 168
+Process ballot 613: ,,,1,
+given to Smith, I with 176
+Process ballot 614: ,,,,1
+given to Armada, I with 192
+Process ballot 615: ,,1,,
+given to Kevin, I with 169
+Process ballot 616: ,,,1,
+given to Smith, I with 177
+Process ballot 617: ,,,,1
+given to Armada, I with 193
+Process ballot 618: ,,1,,
+given to Kevin, I with 170
+Process ballot 619: ,,,1,
+given to Smith, I with 178
+Process ballot 620: ,,,,1
+given to Armada, I with 194
+Process ballot 621: 1,,,,
+given to Joe, D with 52
+Process ballot 622: ,,,,1
+given to Armada, I with 195
+Process ballot 623: ,,1,,
+given to Kevin, I with 171
+Process ballot 624: ,,,1,
+given to Smith, I with 179
+Process ballot 625: ,,,,1
+given to Armada, I with 196
+Process ballot 626: 1,,,,
+given to Joe, D with 53
+Process ballot 627: ,1,,,
+given to Craig , R with 29
+Process ballot 628: ,,,1,
+given to Smith, I with 180
+Process ballot 629: ,,,,1
+given to Armada, I with 197
+Process ballot 630: ,,1,,
+given to Kevin, I with 172
+Process ballot 631: ,,,1,
+given to Smith, I with 181
+Process ballot 632: ,,1,,
+given to Kevin, I with 173
+Process ballot 633: ,,,1,
+given to Smith, I with 182
+Process ballot 634: ,,,,1
+given to Armada, I with 198
+Process ballot 635: 1,,,,
+given to Joe, D with 54
+Process ballot 636: ,,,,1
+given to Armada, I with 199
+Process ballot 637: ,,1,,
+given to Kevin, I with 174
+Process ballot 638: ,,,1,
+given to Smith, I with 183
+Process ballot 639: ,,,,1
+given to Armada, I with 200
+Process ballot 640: 1,,,,
+given to Joe, D with 55
+Process ballot 641: ,1,,,
+given to Craig , R with 30
+Process ballot 642: ,,,1,
+given to Smith, I with 184
+Process ballot 643: ,,,,1
+given to Armada, I with 201
+Process ballot 644: ,,1,,
+given to Kevin, I with 175
+Process ballot 645: ,,,1,
+given to Smith, I with 185
+Process ballot 646: ,,,,1
+given to Armada, I with 202
+Process ballot 647: ,,1,,
+given to Kevin, I with 176
+Process ballot 648: ,1,,,
+given to Craig , R with 31
+Process ballot 649: 1,,,,
+given to Joe, D with 56
+Process ballot 650: 1,,,,
+given to Joe, D with 57
+Process ballot 651: ,,1,,
+given to Kevin, I with 177
+Process ballot 652: ,,,1,
+given to Smith, I with 186
+Process ballot 653: ,,,,1
+given to Armada, I with 203
+Process ballot 654: ,,1,,
+given to Kevin, I with 178
+Process ballot 655: ,,,1,
+given to Smith, I with 187
+Process ballot 656: ,,,,1
+given to Armada, I with 204
+Process ballot 657: ,,1,,
+given to Kevin, I with 179
+Process ballot 658: ,,,1,
+given to Smith, I with 188
+Process ballot 659: ,,,,1
+given to Armada, I with 205
+Process ballot 660: ,,1,,
+given to Kevin, I with 180
+Process ballot 661: ,,,1,
+given to Smith, I with 189
+Process ballot 662: ,,,,1
+given to Armada, I with 206
+Process ballot 663: ,,1,,
+given to Kevin, I with 181
+Process ballot 664: ,,,1,
+given to Smith, I with 190
+Process ballot 665: ,,,,1
+given to Armada, I with 207
+Process ballot 666: ,,1,,
+given to Kevin, I with 182
+Process ballot 667: ,,,1,
+given to Smith, I with 191
+Process ballot 668: ,,,,1
+given to Armada, I with 208
+Process ballot 669: ,,1,,
+given to Kevin, I with 183
+Process ballot 670: ,,,1,
+given to Smith, I with 192
+Process ballot 671: ,,,,1
+given to Armada, I with 209
+Process ballot 672: ,,1,,
+given to Kevin, I with 184
+Process ballot 673: ,,,1,
+given to Smith, I with 193
+Process ballot 674: ,,,,1
+given to Armada, I with 210
+Process ballot 675: ,,1,,
+given to Kevin, I with 185
+Process ballot 676: ,,,1,
+given to Smith, I with 194
+Process ballot 677: ,,,,1
+given to Armada, I with 211
+Process ballot 678: ,,1,,
+given to Kevin, I with 186
+Process ballot 679: ,,,1,
+given to Smith, I with 195
+Process ballot 680: ,,,,1
+given to Armada, I with 212
+Process ballot 681: ,,1,,
+given to Kevin, I with 187
+Process ballot 682: ,,,1,
+given to Smith, I with 196
+Process ballot 683: ,,,,1
+given to Armada, I with 213
+Process ballot 684: ,,1,,
+given to Kevin, I with 188
+Process ballot 685: ,,,1,
+given to Smith, I with 197
+Process ballot 686: ,,,,1
+given to Armada, I with 214
+Process ballot 687: ,,1,,
+given to Kevin, I with 189
+Process ballot 688: ,,,1,
+given to Smith, I with 198
+Process ballot 689: ,,,,1
+given to Armada, I with 215
+Process ballot 690: ,,1,,
+given to Kevin, I with 190
+Process ballot 691: ,,,1,
+given to Smith, I with 199
+Process ballot 692: ,,,,1
+given to Armada, I with 216
+Process ballot 693: ,,1,,
+given to Kevin, I with 191
+Process ballot 694: ,,,1,
+given to Smith, I with 200
+Process ballot 695: ,,,,1
+given to Armada, I with 217
+Process ballot 696: ,,1,,
+given to Kevin, I with 192
+Process ballot 697: ,,,1,
+given to Smith, I with 201
+Process ballot 698: ,,,,1
+given to Armada, I with 218
+Process ballot 699: 1,,,,
+given to Joe, D with 58
+Process ballot 700: ,,,,1
+given to Armada, I with 219
+Process ballot 701: ,,1,,
+given to Kevin, I with 193
+Process ballot 702: ,,,1,
+given to Smith, I with 202
+Process ballot 703: ,,,,1
+given to Armada, I with 220
+Process ballot 704: 1,,,,
+given to Joe, D with 59
+Process ballot 705: ,1,,,
+given to Craig , R with 32
+Process ballot 706: ,,,1,
+given to Smith, I with 203
+Process ballot 707: ,,,,1
+given to Armada, I with 221
+Process ballot 708: ,,1,,
+given to Kevin, I with 194
+Process ballot 709: ,,,1,
+given to Smith, I with 204
+Process ballot 710: ,,,,1
+given to Armada, I with 222
+Process ballot 711: ,,1,,
+given to Kevin, I with 195
+Process ballot 712: ,,,1,
+given to Smith, I with 205
+Process ballot 713: ,,,,1
+given to Armada, I with 223
+Process ballot 714: ,,1,,
+given to Kevin, I with 196
+Process ballot 715: ,,,1,
+given to Smith, I with 206
+Process ballot 716: ,,,,1
+given to Armada, I with 224
+Process ballot 717: ,,1,,
+given to Kevin, I with 197
+Process ballot 718: ,,,1,
+given to Smith, I with 207
+Process ballot 719: ,,,,1
+given to Armada, I with 225
+Process ballot 720: 1,,,,
+given to Joe, D with 60
+Process ballot 721: ,,,,1
+given to Armada, I with 226
+Process ballot 722: ,,1,,
+given to Kevin, I with 198
+Process ballot 723: ,,,1,
+given to Smith, I with 208
+Process ballot 724: ,,,,1
+given to Armada, I with 227
+Process ballot 725: 1,,,,
+given to Joe, D with 61
+Process ballot 726: ,1,,,
+given to Craig , R with 33
+Process ballot 727: ,,1,,
+given to Kevin, I with 199
+Process ballot 728: ,,,1,
+given to Smith, I with 209
+Process ballot 729: ,,,,1
+given to Armada, I with 228
+Process ballot 730: ,,1,,
+given to Kevin, I with 200
+Process ballot 731: ,,,1,
+given to Smith, I with 210
+Process ballot 732: ,,,,1
+given to Armada, I with 229
+Process ballot 733: ,,1,,
+given to Kevin, I with 201
+Process ballot 734: ,,,1,
+given to Smith, I with 211
+Process ballot 735: ,,,,1
+given to Armada, I with 230
+Process ballot 736: ,,1,,
+given to Kevin, I with 202
+Process ballot 737: ,,,1,
+given to Smith, I with 212
+Process ballot 738: ,,,,1
+given to Armada, I with 231
+Process ballot 739: ,,1,,
+given to Kevin, I with 203
+Process ballot 740: ,,,1,
+given to Smith, I with 213
+Process ballot 741: ,,,,1
+given to Armada, I with 232
+Process ballot 742: ,,1,,
+given to Kevin, I with 204
+Process ballot 743: ,,,1,
+given to Smith, I with 214
+Process ballot 744: ,,,,1
+given to Armada, I with 233
+Process ballot 745: ,,1,,
+given to Kevin, I with 205
+Process ballot 746: ,,,1,
+given to Smith, I with 215
+Process ballot 747: ,,,,1
+given to Armada, I with 234
+Process ballot 748: ,,1,,
+given to Kevin, I with 206
+Process ballot 749: ,,,1,
+given to Smith, I with 216
+Process ballot 750: ,,,,1
+given to Armada, I with 235
+Process ballot 751: ,,1,,
+given to Kevin, I with 207
+Process ballot 752: ,,,1,
+given to Smith, I with 217
+Process ballot 753: ,,,,1
+given to Armada, I with 236
+Process ballot 754: ,,1,,
+given to Kevin, I with 208
+Process ballot 755: ,,,1,
+given to Smith, I with 218
+Process ballot 756: ,,,,1
+given to Armada, I with 237
+Process ballot 757: ,,1,,
+given to Kevin, I with 209
+Process ballot 758: ,,,1,
+given to Smith, I with 219
+Process ballot 759: ,,,,1
+given to Armada, I with 238
+Process ballot 760: ,,1,,
+given to Kevin, I with 210
+Process ballot 761: ,,,1,
+given to Smith, I with 220
+Process ballot 762: ,,,,1
+given to Armada, I with 239
+Process ballot 763: ,,1,,
+given to Kevin, I with 211
+Process ballot 764: ,,,1,
+given to Smith, I with 221
+Process ballot 765: ,,,,1
+given to Armada, I with 240
+Process ballot 766: ,,1,,
+given to Kevin, I with 212
+Process ballot 767: ,,,1,
+given to Smith, I with 222
+Process ballot 768: ,,,,1
+given to Armada, I with 241
+Process ballot 769: ,,1,,
+given to Kevin, I with 213
+Process ballot 770: ,,,1,
+given to Smith, I with 223
+Process ballot 771: ,,,,1
+given to Armada, I with 242
+Process ballot 772: 1,,,,
+given to Joe, D with 62
+Process ballot 773: ,,,,1
+given to Armada, I with 243
+Process ballot 774: ,,1,,
+given to Kevin, I with 214
+Process ballot 775: ,,,1,
+given to Smith, I with 224
+Process ballot 776: ,,,,1
+given to Armada, I with 244
+Process ballot 777: 1,,,,
+given to Joe, D with 63
+Process ballot 778: ,1,,,
+given to Craig , R with 34
+Process ballot 779: ,,,1,
+given to Smith, I with 225
+Process ballot 780: ,,,,1
+given to Armada, I with 245
+Process ballot 781: ,,1,,
+given to Kevin, I with 215
+Process ballot 782: ,,,1,
+given to Smith, I with 226
+Process ballot 783: ,,,,1
+given to Armada, I with 246
+Process ballot 784: ,,1,,
+given to Kevin, I with 216
+Process ballot 785: ,,,1,
+given to Smith, I with 227
+Process ballot 786: ,,,,1
+given to Armada, I with 247
+Process ballot 787: ,,1,,
+given to Kevin, I with 217
+Process ballot 788: ,,,1,
+given to Smith, I with 228
+Process ballot 789: ,,,,1
+given to Armada, I with 248
+Process ballot 790: ,,1,,
+given to Kevin, I with 218
+Process ballot 791: ,,,1,
+given to Smith, I with 229
+Process ballot 792: ,,,,1
+given to Armada, I with 249
+Process ballot 793: 1,,,,
+given to Joe, D with 64
+Process ballot 794: ,,,,1
+given to Armada, I with 250
+Process ballot 795: ,,1,,
+given to Kevin, I with 219
+Process ballot 796: ,,,1,
+given to Smith, I with 230
+Process ballot 797: ,,,,1
+given to Armada, I with 251
+Process ballot 798: 1,,,,
+given to Joe, D with 65
+Process ballot 799: ,1,,,
+given to Craig , R with 35
+Process ballot 800: ,,1,,
+given to Kevin, I with 220
+Process ballot 801: ,,,1,
+given to Smith, I with 231
+Process ballot 802: ,,,,1
+given to Armada, I with 252
+Process ballot 803: ,,1,,
+given to Kevin, I with 221
+Process ballot 804: ,,,1,
+given to Smith, I with 232
+Process ballot 805: ,,,,1
+given to Armada, I with 253
+Process ballot 806: ,,1,,
+given to Kevin, I with 222
+Process ballot 807: ,,,1,
+given to Smith, I with 233
+Process ballot 808: ,,,,1
+given to Armada, I with 254
+Process ballot 809: ,,1,,
+given to Kevin, I with 223
+Process ballot 810: ,,,1,
+given to Smith, I with 234
+Process ballot 811: ,,,,1
+given to Armada, I with 255
+Process ballot 812: 1,,,,
+given to Joe, D with 66
+Process ballot 813: ,,,,1
+given to Armada, I with 256
+Process ballot 814: ,,1,,
+given to Kevin, I with 224
+Process ballot 815: ,,,1,
+given to Smith, I with 235
+Process ballot 816: ,,,,1
+given to Armada, I with 257
+Process ballot 817: 1,,,,
+given to Joe, D with 67
+Process ballot 818: ,1,,,
+given to Craig , R with 36
+Process ballot 819: ,,,1,
+given to Smith, I with 236
+Process ballot 820: ,,,,1
+given to Armada, I with 258
+Process ballot 821: ,,1,,
+given to Kevin, I with 225
+Process ballot 822: ,,,1,
+given to Smith, I with 237
+Process ballot 823: ,,1,,
+given to Kevin, I with 226
+Process ballot 824: ,,,1,
+given to Smith, I with 238
+Process ballot 825: ,,,,1
+given to Armada, I with 259
+Process ballot 826: 1,,,,
+given to Joe, D with 68
+Process ballot 827: 1,,,,
+given to Joe, D with 69
+Process ballot 828: 1,,,,
+given to Joe, D with 70
+Process ballot 829: 1,,,,
+given to Joe, D with 71
+Process ballot 830: ,1,,,
+given to Craig , R with 37
+Process ballot 831: 1,,,,
+given to Joe, D with 72
+Process ballot 832: ,1,,,
+given to Craig , R with 38
+Process ballot 833: 1,,,,
+given to Joe, D with 73
+Process ballot 834: ,1,,,
+given to Craig , R with 39
+Process ballot 835: 1,,,,
+given to Joe, D with 74
+Process ballot 836: ,1,,,
+given to Craig , R with 40
+Process ballot 837: ,,,,1
+given to Armada, I with 260
+Process ballot 838: ,,1,,
+given to Kevin, I with 227
+Process ballot 839: ,1,,,
+given to Craig , R with 41
+Process ballot 840: 1,,,,
+given to Joe, D with 75
+Process ballot 841: ,1,,,
+given to Craig , R with 42
+Process ballot 842: 1,,,,
+given to Joe, D with 76
+Process ballot 843: ,1,,,
+given to Craig , R with 43
+Process ballot 844: 1,,,,
+given to Joe, D with 77
+Process ballot 845: ,1,,,
+given to Craig , R with 44
+Process ballot 846: 1,,,,
+given to Joe, D with 78
+Process ballot 847: ,1,,,
+given to Craig , R with 45
+Process ballot 848: ,,,,1
+given to Armada, I with 261
+Process ballot 849: ,,1,,
+given to Kevin, I with 228
+Process ballot 850: ,1,,,
+given to Craig , R with 46
+Process ballot 851: ,,,1,
+given to Smith, I with 239
+Process ballot 852: ,,,,1
+given to Armada, I with 262
+Process ballot 853: ,,1,,
+given to Kevin, I with 229
+Process ballot 854: ,,,1,
+given to Smith, I with 240
+Process ballot 855: ,,,,1
+given to Armada, I with 263
+Process ballot 856: ,,1,,
+given to Kevin, I with 230
+Process ballot 857: ,,,1,
+given to Smith, I with 241
+Process ballot 858: ,,,,1
+given to Armada, I with 264
+Process ballot 859: ,,1,,
+given to Kevin, I with 231
+Process ballot 860: ,,,1,
+given to Smith, I with 242
+Process ballot 861: ,,,,1
+given to Armada, I with 265
+Process ballot 862: ,,1,,
+given to Kevin, I with 232
+Process ballot 863: ,,,1,
+given to Smith, I with 243
+Process ballot 864: ,,,,1
+given to Armada, I with 266
+Process ballot 865: ,,1,,
+given to Kevin, I with 233
+Process ballot 866: ,,,1,
+given to Smith, I with 244
+Process ballot 867: ,,,,1
+given to Armada, I with 267
+Process ballot 868: ,,1,,
+given to Kevin, I with 234
+Process ballot 869: ,,,1,
+given to Smith, I with 245
+Process ballot 870: ,,,,1
+given to Armada, I with 268
+Process ballot 871: ,,1,,
+given to Kevin, I with 235
+Process ballot 872: ,,,1,
+given to Smith, I with 246
+Process ballot 873: ,,,,1
+given to Armada, I with 269
+Process ballot 874: ,,1,,
+given to Kevin, I with 236
+Process ballot 875: ,,,1,
+given to Smith, I with 247
+Process ballot 876: ,,,,1
+given to Armada, I with 270
+Process ballot 877: 1,,,,
+given to Joe, D with 79
+Process ballot 878: ,,,,1
+given to Armada, I with 271
+Process ballot 879: ,,1,,
+given to Kevin, I with 237
+Process ballot 880: ,,,1,
+given to Smith, I with 248
+Process ballot 881: 1,,,,
+given to Joe, D with 80
+Process ballot 882: ,,,,1
+given to Armada, I with 272
+Process ballot 883: ,,,1,
+given to Smith, I with 249
+Process ballot 884: ,,,,1
+given to Armada, I with 273
+Process ballot 885: ,,1,,
+given to Kevin, I with 238
+Process ballot 886: ,,,1,
+given to Smith, I with 250
+Process ballot 887: ,,,,1
+given to Armada, I with 274
+Process ballot 888: ,,1,,
+given to Kevin, I with 239
+Process ballot 889: ,,,1,
+given to Smith, I with 251
+Process ballot 890: ,,,,1
+given to Armada, I with 275
+Process ballot 891: ,,1,,
+given to Kevin, I with 240
+Process ballot 892: ,,,1,
+given to Smith, I with 252
+Process ballot 893: ,,,,1
+given to Armada, I with 276
+Process ballot 894: ,,1,,
+given to Kevin, I with 241
+Process ballot 895: ,,,1,
+given to Smith, I with 253
+Process ballot 896: ,,,,1
+given to Armada, I with 277
+Process ballot 897: ,,1,,
+given to Kevin, I with 242
+Process ballot 898: ,,,1,
+given to Smith, I with 254
+Process ballot 899: ,,,,1
+given to Armada, I with 278
+Process ballot 900: ,,1,,
+given to Kevin, I with 243
+Process ballot 901: ,,,1,
+given to Smith, I with 255
+Process ballot 902: ,,,,1
+given to Armada, I with 279
+Process ballot 903: ,,1,,
+given to Kevin, I with 244
+Process ballot 904: ,,,1,
+given to Smith, I with 256
+Process ballot 905: ,,,,1
+given to Armada, I with 280
+Process ballot 906: ,,1,,
+given to Kevin, I with 245
+Process ballot 907: ,,,1,
+given to Smith, I with 257
+Process ballot 908: ,,,,1
+given to Armada, I with 281
+Process ballot 909: 1,,,,
+given to Joe, D with 81
+Process ballot 910: ,,,,1
+given to Armada, I with 282
+Process ballot 911: 1,,,,
+given to Joe, D with 82
+Quota Calculated: 912/3 = 304
+Calculating Seat allocations
+Republicans first allocation is 0
+Total seat allocation is now 0
+Democrats first allocation is 0
+Total seat allocation is now 0
+Independents first allocation is 2
+Total seat allocation is now 2
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 0 for Republicans
+Total Seats is now 0 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 46 total votes
+Democrats have 82 total votes
+Independents have 784 total votes
+Sorting parties based on number of votes per candidate
+Armada, I with 282 declared a winner!
+Smith, I with 257 declared a winner!
+Kevin, I with 245 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 3
+Number of Votes: 912
+Quota: 304
+First Round Allocation: 0, 0, 2
+Second Round Allocation: 0, 0, 2
+Republican Candidates: 
+Craig , R with 46
+Total Republican Votes: 46
+Democrat Candidates: 
+Joe, D with 82
+Total Democrat Votes: 82
+Independent Candidates: 
+Armada, I with 282
+Smith, I with 257
+Kevin, I with 245
+Total Inpedendent Votes: 784
+Winning Candidates: 
+Armada, I with 282
+Smith, I with 257
+Kevin, I with 245

@@ -1,0 +1,6 @@
+  Candidates (Parties)  ||  After   0 Tranfser  ||  After   1 Tranfser  ||  After   2 Tranfser  ||  Final Votes  
+               Rosen (D)||                     3||                 +   0||                 +   1||              4
+           Kleinberg (R)||                     0||                 +   0||                 +   0||              0
+                Chou (I)||                     2||                 +   0||                 +   0||              2
+               Royce (I)||                     1||                 +   0||                 +  -1||              0
+Winner: Rosen (D)

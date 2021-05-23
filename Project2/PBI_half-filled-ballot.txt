@@ -1,0 +1,48 @@
+Half-filled ballot
+
+remove invalid ballots from election when run countVote
+select 0.5 or more candidates
+create a file (invalidated_dateofelection.xxx) to save invalidated ballots
+add it to audit file
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Design
+
+Ballot class:
+	add new attribute -- bool invalidated = False
+	write a function called checkInvalidBallot(Ballot*) to check whether there are 0.5 or more candidates are ranked in a ballot
+
+Candidate class:
+	in popBallotList(int i), remove the ballot from the list
+
+IR class:
+	add new attribute -- vector<Ballot*> invalidatedBallots to save all invalidated ballots
+
+IR:
+in countVote():
+	remove invalidated ballots from all candidates while counting votes
+	update NumBallots()
+	add invalidatedVote list and add it to audit file
+
+
+Main:
+	call checkInvalidBallot() and add invalidated value for each ballot when reading ballots in loadFile()
+	get invalidatedBallots from IR class and save it to a file named invalidated_dateofelection.xxx
+	Q: in display result, add the initial vote count before invalidating the votes?
+
+
+  Candidates (Parties)  ||  After   0 Tranfser  ||  After   1 Tranfser  ||  After   2 Tranfser  ||  After   3 Tranfser  ||  Final Votes  
+               Rosen (D)||                     3||                 +   0||                 +   1||                 +   1||              5
+           Kleinberg (R)||                     1||                 +  -1||                 +   0||                 +   0||              0
+                Chou (I)||                     2||                 +   1||                 +   1||                 +   0||              4
+               Royce (I)||                     2||                 +   0||                 +  -2||                 +   0||              0
+                   A (D)||                     2||                 +   0||                 +   0||                 +  -2||              0
+Winner: Chou (I)
+
+  Candidates (Parties)  ||  After   0 Tranfser  ||  After   1 Tranfser  ||  After   2 Tranfser  ||  After   3 Tranfser  ||  Final Votes  
+               Rosen (D)||                     2||                 +   0||                 +   1||                 +   0||              3
+           Kleinberg (R)||                     1||                 +  -1||                 +   0||                 +   0||              0
+                Chou (I)||                     2||                 +   1||                 +   0||                 +   1||              4
+               Royce (I)||                     1||                 +   0||                 +   0||                 +  -1||              0
+                   A (D)||                     1||                 +   0||                 +  -1||                 +   0||              0
+Winner: Chou (I)

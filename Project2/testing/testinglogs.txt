@@ -1,0 +1,811 @@
+Welcome to Voting System Application
+Project 1, Voting System Application, Team25
+#############################################################
+# Running OPL Unit Tests                                    #
+# Test run on: Tue Mar 23 19:16:00 2021
+# User: trim0039                                            #
+# Test Case ID: OPL_1616544960                              #
+# The objective of this test is to verify the components of #
+# the OPL class are working as required by the client.      #
+# All tests are automated and results are below each step   #
+#############################################################
+
+Step 1: 
+Verify all getters and setters
+================================================================
+Passed getNumSeats and setNumSeats!
+Expected: 10
+Actual: 10
+The system now has 10 set as number of seats to be filled
+
+Passed getRepVotes and setRepVotes!
+Expected: 33
+Actual: 33
+The system now has 33 set as number of votes for Republicans
+
+Passed getDemVotes and setDemVotes!
+Expected: 28
+Actual: 28
+The system now has 28 set as number of votes for Democrats
+
+Passed getIndVotes and setIndVotes!
+Expected: 22
+Actual: 22
+The system now has 22 set as number of votes for Independents
+
+Passed getFirstSeats and setFirstSeats!
+Expected: Reps-4, Dems-3, Ind-2
+Actual: Reps-4, Dems-3, Ind-2
+The system now has Reps-4, Dems-3, Ind-2 set as number of first seats for each party
+
+Passed getSecondSeats and setSecondSeats!
+Expected: Reps-0, Dems-0, Ind-1
+Actual: Reps-0, Dems-0, Ind-1
+The system now has Reps-0, Dems-0, Ind-1 set as number of second seats for each party
+
+Step 2: 
+Verify list getter and pusher
+ This test assumes Candidate Class in working order
+================================================================
+Passed list push and get functions!
+Expected: 
+ar, br, cr, dr
+ad, bd, cd, dd
+ai, bi, ci
+Actual: 
+ar, br, cr, dr
+ad, bd, cd, dd
+ai, bi, ci
+Candidate Lists are now: 
+ar, br, cr, dr
+ad, bd, cd, dd
+ai, bi, ci
+
+
+Step 3: 
+Verify calculate quota and get quota are working
+================================================================
+Passed calculateQuota and getQuota!
+Expected: 8
+Actual: 8
+The system now has 8 set as its quota
+
+Step 4: 
+Verify calculate seat allocation function works
+This test resets the previously set seat allocations from step 1
+================================================================
+Passed calculateSeatAllocation
+Got: Rep-4, Dem-3, Ind-3
+Expected: Rep-4, Dem-3, Ind-3
+
+Step 5:
+Verify countVote function works
+This test resets the previously set seat allocations from step 4
+================================================================
+Passed countVote!
+actual winners: br-ar-cr-dr-ad-dd-cd-bd-ai-bi-ci
+expected winners: br-ar-cr-dr-ad-dd-cd-bd-ai-bi-ci
+
+Test for when there are no independent candidates
+Winners:
+Actual: ar with 11,br with 10,cr with 9,dr with 4,ad with 11,dd with 7,ed with 7,fd with 7,gd with 7,cd with 6,
+Expected: ar with 11,br with 10,cr with 9,dr with 4,ad with 11,dd with 7,ed with 7,fd with 7,gd with 7,cd with 6,
+Passed no independent candidate edge case!
+
+Test for when there all list are worse case order
+Winners:
+Actual Winners: dr with 14,cr with 10,dd with 17,cd with 16,bd with 14,ad with 11,ci with 23,bi with 18,ai with 11,
+Expected Winners: dr with 14,cr with 10,dd with 17,cd with 16,bd with 14,ad with 11,ci with 23,bi with 18,ai with 11,
+Passed worse case order test!
+
+Project 1, Voting System Application, Team25
+#############################################################
+# Running Candidate Unit Tests                                    #
+# Test run on: Tue Mar 23 19:16:00 2021
+# User: trim0039                                            #
+# Test Case ID: Candidate_1616544960                              #
+# The objective of this test is to verify the components of #
+# the Candidate class are working as required by the client.      #
+# All tests are automated and results are below each step   #
+#############################################################
+
+Step 1: 
+Verify all getters and setters
+================================================================
+passed setname and getname tests
+Expected: Eric Cartman
+Actual: Eric Cartman
+The candidate now has Eric Cartman set as name
+
+passed setvotes and getvotes tests
+Expected: 1
+Actual: 1
+The candidate now has 1 votes
+
+passed setparty and getparty tests
+Expected: R
+Actual: R
+The candidate now has R set as party
+
+passed seteliminated and iseliminated tests
+Expected: 1
+Actual: 1
+The candidate now has 1 set as eleiminated value
+
+passed pushballotlist and popballotlist tests
+Expected: 1000
+Actual: 1000
+
+passed getballotlist tests
+Expected: 1000
+Actual: 1000
+
+Project 1, Voting System Application, Team25
+#############################################################
+# Running Ballot Unit Tests                                    #
+# Test run on: Tue Mar 23 19:16:00 2021
+# User: trim0039                                            #
+# Test Case ID: Ballot_1616544960                              #
+# The objective of this test is to verify the components of #
+# the Ballot class are working as required by the client.      #
+# All tests are automated and results are below each step   #
+#############################################################
+
+Step 1: 
+Verify all getters and setters
+================================================================
+passed getRank and setRank functions
+Expected: 1
+Actual: 1
+The ballot now has 1 set as its current rank
+
+passed getVote and setVote functions
+Expected: 
+1, 2, 3, 4
+Actual: 
+1, 2, 3, 4
+The ballot now has 1,2,3,4 set as its vote
+
+Project 1, Voting System Application, Team25
+#############################################################
+# Running Election Unit Tests                                    #
+# Test run on: Tue Mar 23 19:16:00 2021
+# User: trim0039                                            #
+# Test Case ID: Election_1616544960                              #
+# The objective of this test is to verify the components of       #
+# the Election class are working as required by the client.            #
+# All tests are automated and results are below each step         #
+# coinToss() will run automatically but must be verified manually #
+#############################################################
+
+Step 1: 
+Verify all getters and setters
+================================================================
+passed settype and gettype
+Expected: OPL
+Acutal: OPL
+The system now has OPL set as type
+
+passed setnumballots and getnumballots
+Expected: 10
+Acutal: 10
+The system now has 10 set as the number of ballots
+
+passed setnumcandidates and getnumcandidates
+Expected: 4
+Acutal: 4
+The system now has 4 set as the number of candidates
+
+passed pushcandidatelist and getcandidatelsit
+Expected: Towlie
+Acutal: Towlie
+The system now has Towlie set as a candidate
+
+
+Step 2: 
+Verify coinToss
+THIS MUST BE VERIFIED MANUALLY
+================================================================
+24
+21
+25
+16
+14
+Above numbers should be reasonable close in value to pass
+
+Project 1, Voting System Application, Team25
+#############################################################
+# Running IR Unit Tests                                    #
+# Test run on: Tue Mar 23 19:16:00 2021
+# User: trim0039                                            #
+# Test Case ID: IR_1616544960                              #
+# The objective of this test is to verify the components of #
+# the IR class is working as required by the client.      #
+# All tests are automated and results are below each step   #
+#############################################################
+
+Step 1: 
+Verify all getters and setters
+================================================================
+Testing setLoser and getLoser:
+Expected: Candidate A
+Actual: Candidate A
+The system now has Candidate A set as Loser Candidate
+
+Passed setLoser and getLoser
+
+Testing setWinner and getWinner:
+Expected: Candidate A
+Actual: Candidate A
+The system now has Candidate A set as Winner Candidate
+
+Passed setWinner and getWinner
+
+
+Step 2: 
+Verify countVote and transferVote are working
+================================================================
+Here we are testing 5 cases for countVote.
+
+Testing case1: one candidate got majority vote and declare winner without calling transferVote
+Testing countVote, transferVote and getTransferVotes:
+Initial vote count
+Candidate Name   Initial Vote Count
+Cand0             6
+Cand1             2
+Cand2             1
+Cand3             1
+Start IR Vote Counting Process...
+
+Result after countVote:
+Expected: Cand0
+Actual: Cand0
+Passed countVote and transferVote for case1
+
+Result from getTransferVotes:
+Expected:
+6, 2, 1, 1, 
+Actual:
+6, 2, 1, 1, 
+Passed getTransferVotes for case1
+
+
+Testing case2: no candidate got majority vote and calling transferVote once to transfer vote from one loser candidate
+Testing countVote, transferVote and getTransferVotes:
+Initial vote count
+Candidate Name   Initial Vote Count
+Cand0             5
+Cand1             2
+Cand2             1
+Cand3             2
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+
+Result after countVote:
+Expected: Cand0
+Actual: Cand0
+Passed countVote and transferVote for case2
+
+Result from getTransferVotes:
+Expected:
+5, 2, 1, 2, 
+6, 2, 0, 2, 
+Actual:
+5, 2, 1, 2, 
+6, 2, 0, 2, 
+Passed getTransferVotes for case2
+
+
+Testing case3: no candidate got majority vote and calling transferVote twice to transfer vote from one loser candidate
+Testing countVote, transferVote and getTransferVotes:
+Initial vote count
+Candidate Name   Initial Vote Count
+Cand0             5
+Cand1             2
+Cand2             1
+Cand3             2
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+Start Transfering Votes Process...
+
+Result after countVote:
+Expected: Cand0
+Actual: Cand0
+Passed countVote and transferVote for case3
+
+Result from getTransferVotes:
+Expected:
+5, 2, 1, 2, 
+5, 2, 0, 3, 
+6, 0, 0, 4, 
+Actual:
+5, 2, 1, 2, 
+5, 2, 0, 3, 
+6, 0, 0, 4, 
+Passed getTransferVotes for case3
+
+
+Testing case4: no candidate got majority vote, calling transferVote twice and 2nd preference candidate is eliminated thus call 3rd, 4th preference
+Testing countVote, transferVote and getTransferVotes:
+Initial vote count
+Candidate Name   Initial Vote Count
+Cand0             5
+Cand1             2
+Cand2             1
+Cand3             2
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+Start Transfering Votes Process...
+
+Result after countVote:
+Expected: Cand0
+Actual: Cand0
+Passed countVote and transferVote for case4
+
+Result from getTransferVotes:
+Expected:
+5, 2, 1, 2, 
+5, 2, 0, 3, 
+6, 0, 0, 4, 
+Actual:
+5, 2, 1, 2, 
+5, 2, 0, 3, 
+6, 0, 0, 4, 
+Passed getTransferVotes for case4
+
+
+Testing case5: no candidate got majority vote, choose from multiple losers, calling transferVote and choose winner from two candidates who are tie
+Testing countVote, transferVote and getTransferVotes:
+Initial vote count
+Candidate Name   Initial Vote Count
+Cand0             4
+Cand1             2
+Cand2             2
+Cand3             2
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+Start Transfering Votes Process...
+Candidates Tie; running coinToss process...
+
+Result after countVote:
+Expected: Cand0 or Cand3
+Actual: Cand0
+Passed countVote and transferVote for case5
+
+Result from getTransferVotes:
+Expected:
+4, 2, 2, 2, 
+4, 0, 2, 4, 
+5, 0, 0, 5, 
+All possible outcomes:Actual (outcome 1):
+4, 2, 2, 2, 
+4, 0, 2, 4, 
+5, 0, 0, 5, 
+Actual (outcome 2):
+4, 2, 2, 2, 
+5, 2, 0, 3, 
+5, 0, 0, 5, 
+Actual (outcome 3):
+4, 2, 2, 2, 
+5, 3, 2, 0, 
+6, 3, 0, 0, 
+Passed getTransferVotes for case5
+
+make sure to use '>> ../testing/testinglogs.txt' after the program executable to append tests in the log file
+
+Counting ballots took 0 seconds to complete
+
+[==========] Running 28 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 10 tests from OPLTest
+[ RUN      ] OPLTest.seatSetterGetter1
+[       OK ] OPLTest.seatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.partyVoteSetterGetter1
+[       OK ] OPLTest.partyVoteSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.firstSeatSetterGetter1
+[       OK ] OPLTest.firstSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.secondSeatSetterGetter1
+[       OK ] OPLTest.secondSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.candListSetterGetter1
+[       OK ] OPLTest.candListSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.quotaSetterGetter1
+[       OK ] OPLTest.quotaSetterGetter1 (5 ms)
+[ RUN      ] OPLTest.calculateSeatAllocation1
+[       OK ] OPLTest.calculateSeatAllocation1 (3 ms)
+[ RUN      ] OPLTest.countVote1
+checking republicans sameIdx: dr
+checking democrats sameIdx: cd
+checking independent sameIdx: ci
+[       OK ] OPLTest.countVote1 (232 ms)
+[ RUN      ] OPLTest.countVote2
+checking republicans sameIdx: dr
+checking democrats sameIdx: cd
+[       OK ] OPLTest.countVote2 (6 ms)
+[ RUN      ] OPLTest.countVote3
+checking republicans sameIdx: cr
+checking democrats sameIdx: ad
+checking independent sameIdx: ai
+Winners:
+[       OK ] OPLTest.countVote3 (5 ms)
+[----------] 10 tests from OPLTest (251 ms total)
+
+[----------] 7 tests from IRTest
+[ RUN      ] IRTest.winnerSetterGetter1
+[       OK ] IRTest.winnerSetterGetter1 (0 ms)
+[ RUN      ] IRTest.loserSetterGetter1
+[       OK ] IRTest.loserSetterGetter1 (0 ms)
+[ RUN      ] IRTest.countVote1
+Start IR Vote Counting Process...
+[       OK ] IRTest.countVote1 (2 ms)
+[ RUN      ] IRTest.countVote2
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+[       OK ] IRTest.countVote2 (5 ms)
+[ RUN      ] IRTest.countVote3
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+Start Transfering Votes Process...
+[       OK ] IRTest.countVote3 (8 ms)
+[ RUN      ] IRTest.countVote4
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+Start Transfering Votes Process...
+[       OK ] IRTest.countVote4 (14 ms)
+[ RUN      ] IRTest.countVote5
+Start IR Vote Counting Process...
+Start Transfering Votes Process...
+Start Transfering Votes Process...
+Candidates Tie; running coinToss process...
+ir_test.cpp:187: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected1
+    Which is: { { 4, 2, 2, 2 }, { 4, 0, 2, 4 }, { 5, 0, 0, 5 } }
+ir_test.cpp:189: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected3
+    Which is: { { 4, 2, 2, 2 }, { 5, 3, 2, 0 }, { 6, 3, 0, 0 } }
+ir_test.cpp:191: Failure
+Expected equality of these values:
+  ir->getCandidateList()[3]
+    Which is: 0x563fcd88ef10
+  ir->getWinner()
+    Which is: 0x563fcd889580
+[  FAILED  ] IRTest.countVote5 (12 ms)
+[----------] 7 tests from IRTest (41 ms total)
+
+[----------] 5 tests from CandidateTest
+[ RUN      ] CandidateTest.nameSetterGetter1
+[       OK ] CandidateTest.nameSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.partySetterGetter1
+[       OK ] CandidateTest.partySetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.votesSetterGetter1
+[       OK ] CandidateTest.votesSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.eliminatedSetterGetter1
+[       OK ] CandidateTest.eliminatedSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.ballotListSetterGetter1
+[       OK ] CandidateTest.ballotListSetterGetter1 (0 ms)
+[----------] 5 tests from CandidateTest (0 ms total)
+
+[----------] 2 tests from BallotTest
+[ RUN      ] BallotTest.rankSetterGetter1
+[       OK ] BallotTest.rankSetterGetter1 (0 ms)
+[ RUN      ] BallotTest.voteSetterGetter1
+[       OK ] BallotTest.voteSetterGetter1 (1 ms)
+[----------] 2 tests from BallotTest (1 ms total)
+
+[----------] 4 tests from ElectionTest
+[ RUN      ] ElectionTest.typeSetterGetter1
+[       OK ] ElectionTest.typeSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numBallotsSetterGetter1
+[       OK ] ElectionTest.numBallotsSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numCandidatesSetterGetter1
+[       OK ] ElectionTest.numCandidatesSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.candSetterGetter1
+[       OK ] ElectionTest.candSetterGetter1 (0 ms)
+[----------] 4 tests from ElectionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 28 tests from 5 test suites ran. (293 ms total)
+[  PASSED  ] 27 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] IRTest.countVote5
+
+ 1 FAILED TEST
+[==========] Running 28 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 10 tests from OPLTest
+[ RUN      ] OPLTest.seatSetterGetter1
+[       OK ] OPLTest.seatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.partyVoteSetterGetter1
+[       OK ] OPLTest.partyVoteSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.firstSeatSetterGetter1
+[       OK ] OPLTest.firstSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.secondSeatSetterGetter1
+[       OK ] OPLTest.secondSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.candListSetterGetter1
+[       OK ] OPLTest.candListSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.quotaSetterGetter1
+[       OK ] OPLTest.quotaSetterGetter1 (2 ms)
+[ RUN      ] OPLTest.calculateSeatAllocation1
+[       OK ] OPLTest.calculateSeatAllocation1 (1 ms)
+[ RUN      ] OPLTest.countVote1
+[       OK ] OPLTest.countVote1 (5 ms)
+[ RUN      ] OPLTest.countVote2
+[       OK ] OPLTest.countVote2 (5 ms)
+[ RUN      ] OPLTest.countVote3
+[       OK ] OPLTest.countVote3 (4 ms)
+[----------] 10 tests from OPLTest (17 ms total)
+
+[----------] 7 tests from IRTest
+[ RUN      ] IRTest.winnerSetterGetter1
+[       OK ] IRTest.winnerSetterGetter1 (0 ms)
+[ RUN      ] IRTest.loserSetterGetter1
+[       OK ] IRTest.loserSetterGetter1 (0 ms)
+[ RUN      ] IRTest.countVote1
+[       OK ] IRTest.countVote1 (2 ms)
+[ RUN      ] IRTest.countVote2
+[       OK ] IRTest.countVote2 (5 ms)
+[ RUN      ] IRTest.countVote3
+[       OK ] IRTest.countVote3 (6 ms)
+[ RUN      ] IRTest.countVote4
+[       OK ] IRTest.countVote4 (6 ms)
+[ RUN      ] IRTest.countVote5
+ir_test.cpp:187: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected1
+    Which is: { { 4, 2, 2, 2 }, { 4, 0, 2, 4 }, { 5, 0, 0, 5 } }
+ir_test.cpp:189: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected3
+    Which is: { { 4, 2, 2, 2 }, { 5, 3, 2, 0 }, { 6, 3, 0, 0 } }
+ir_test.cpp:191: Failure
+Expected equality of these values:
+  ir->getCandidateList()[3]
+    Which is: 0x55d83cb70f10
+  ir->getWinner()
+    Which is: 0x55d83cb6b580
+[  FAILED  ] IRTest.countVote5 (4 ms)
+[----------] 7 tests from IRTest (23 ms total)
+
+[----------] 5 tests from CandidateTest
+[ RUN      ] CandidateTest.nameSetterGetter1
+[       OK ] CandidateTest.nameSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.partySetterGetter1
+[       OK ] CandidateTest.partySetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.votesSetterGetter1
+[       OK ] CandidateTest.votesSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.eliminatedSetterGetter1
+[       OK ] CandidateTest.eliminatedSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.ballotListSetterGetter1
+[       OK ] CandidateTest.ballotListSetterGetter1 (0 ms)
+[----------] 5 tests from CandidateTest (0 ms total)
+
+[----------] 2 tests from BallotTest
+[ RUN      ] BallotTest.rankSetterGetter1
+[       OK ] BallotTest.rankSetterGetter1 (0 ms)
+[ RUN      ] BallotTest.voteSetterGetter1
+[       OK ] BallotTest.voteSetterGetter1 (0 ms)
+[----------] 2 tests from BallotTest (0 ms total)
+
+[----------] 4 tests from ElectionTest
+[ RUN      ] ElectionTest.typeSetterGetter1
+[       OK ] ElectionTest.typeSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numBallotsSetterGetter1
+[       OK ] ElectionTest.numBallotsSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numCandidatesSetterGetter1
+[       OK ] ElectionTest.numCandidatesSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.candSetterGetter1
+[       OK ] ElectionTest.candSetterGetter1 (0 ms)
+[----------] 4 tests from ElectionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 28 tests from 5 test suites ran. (41 ms total)
+[  PASSED  ] 27 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] IRTest.countVote5
+
+ 1 FAILED TEST
+[==========] Running 28 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 10 tests from OPLTest
+[ RUN      ] OPLTest.seatSetterGetter1
+[       OK ] OPLTest.seatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.partyVoteSetterGetter1
+[       OK ] OPLTest.partyVoteSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.firstSeatSetterGetter1
+[       OK ] OPLTest.firstSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.secondSeatSetterGetter1
+[       OK ] OPLTest.secondSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.candListSetterGetter1
+[       OK ] OPLTest.candListSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.quotaSetterGetter1
+[       OK ] OPLTest.quotaSetterGetter1 (3 ms)
+[ RUN      ] OPLTest.calculateSeatAllocation1
+[       OK ] OPLTest.calculateSeatAllocation1 (2 ms)
+[ RUN      ] OPLTest.countVote1
+[       OK ] OPLTest.countVote1 (4 ms)
+[ RUN      ] OPLTest.countVote2
+[       OK ] OPLTest.countVote2 (5 ms)
+[ RUN      ] OPLTest.countVote3
+[       OK ] OPLTest.countVote3 (6 ms)
+[----------] 10 tests from OPLTest (20 ms total)
+
+[----------] 7 tests from IRTest
+[ RUN      ] IRTest.winnerSetterGetter1
+[       OK ] IRTest.winnerSetterGetter1 (0 ms)
+[ RUN      ] IRTest.loserSetterGetter1
+[       OK ] IRTest.loserSetterGetter1 (0 ms)
+[ RUN      ] IRTest.countVote1
+[       OK ] IRTest.countVote1 (1 ms)
+[ RUN      ] IRTest.countVote2
+[       OK ] IRTest.countVote2 (4 ms)
+[ RUN      ] IRTest.countVote3
+[       OK ] IRTest.countVote3 (8 ms)
+[ RUN      ] IRTest.countVote4
+[       OK ] IRTest.countVote4 (7 ms)
+[ RUN      ] IRTest.countVote5
+ir_test.cpp:187: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected1
+    Which is: { { 4, 2, 2, 2 }, { 4, 0, 2, 4 }, { 5, 0, 0, 5 } }
+ir_test.cpp:189: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected3
+    Which is: { { 4, 2, 2, 2 }, { 5, 3, 2, 0 }, { 6, 3, 0, 0 } }
+ir_test.cpp:191: Failure
+Expected equality of these values:
+  ir->getCandidateList()[3]
+    Which is: 0x55c704233f10
+  ir->getWinner()
+    Which is: 0x55c70422e580
+[  FAILED  ] IRTest.countVote5 (7 ms)
+[----------] 7 tests from IRTest (27 ms total)
+
+[----------] 5 tests from CandidateTest
+[ RUN      ] CandidateTest.nameSetterGetter1
+[       OK ] CandidateTest.nameSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.partySetterGetter1
+[       OK ] CandidateTest.partySetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.votesSetterGetter1
+[       OK ] CandidateTest.votesSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.eliminatedSetterGetter1
+[       OK ] CandidateTest.eliminatedSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.ballotListSetterGetter1
+[       OK ] CandidateTest.ballotListSetterGetter1 (0 ms)
+[----------] 5 tests from CandidateTest (0 ms total)
+
+[----------] 2 tests from BallotTest
+[ RUN      ] BallotTest.rankSetterGetter1
+[       OK ] BallotTest.rankSetterGetter1 (0 ms)
+[ RUN      ] BallotTest.voteSetterGetter1
+[       OK ] BallotTest.voteSetterGetter1 (0 ms)
+[----------] 2 tests from BallotTest (0 ms total)
+
+[----------] 4 tests from ElectionTest
+[ RUN      ] ElectionTest.typeSetterGetter1
+[       OK ] ElectionTest.typeSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numBallotsSetterGetter1
+[       OK ] ElectionTest.numBallotsSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numCandidatesSetterGetter1
+[       OK ] ElectionTest.numCandidatesSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.candSetterGetter1
+[       OK ] ElectionTest.candSetterGetter1 (0 ms)
+[----------] 4 tests from ElectionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 28 tests from 5 test suites ran. (48 ms total)
+[  PASSED  ] 27 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] IRTest.countVote5
+
+ 1 FAILED TEST
+[==========] Running 28 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 10 tests from OPLTest
+[ RUN      ] OPLTest.seatSetterGetter1
+[       OK ] OPLTest.seatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.partyVoteSetterGetter1
+[       OK ] OPLTest.partyVoteSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.firstSeatSetterGetter1
+[       OK ] OPLTest.firstSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.secondSeatSetterGetter1
+[       OK ] OPLTest.secondSeatSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.candListSetterGetter1
+[       OK ] OPLTest.candListSetterGetter1 (0 ms)
+[ RUN      ] OPLTest.quotaSetterGetter1
+[       OK ] OPLTest.quotaSetterGetter1 (3 ms)
+[ RUN      ] OPLTest.calculateSeatAllocation1
+[       OK ] OPLTest.calculateSeatAllocation1 (3 ms)
+[ RUN      ] OPLTest.countVote1
+[       OK ] OPLTest.countVote1 (6 ms)
+[ RUN      ] OPLTest.countVote2
+[       OK ] OPLTest.countVote2 (4 ms)
+[ RUN      ] OPLTest.countVote3
+[       OK ] OPLTest.countVote3 (4 ms)
+[----------] 10 tests from OPLTest (21 ms total)
+
+[----------] 7 tests from IRTest
+[ RUN      ] IRTest.winnerSetterGetter1
+[       OK ] IRTest.winnerSetterGetter1 (0 ms)
+[ RUN      ] IRTest.loserSetterGetter1
+[       OK ] IRTest.loserSetterGetter1 (0 ms)
+[ RUN      ] IRTest.countVote1
+[       OK ] IRTest.countVote1 (2 ms)
+[ RUN      ] IRTest.countVote2
+[       OK ] IRTest.countVote2 (4 ms)
+[ RUN      ] IRTest.countVote3
+[       OK ] IRTest.countVote3 (5 ms)
+[ RUN      ] IRTest.countVote4
+[       OK ] IRTest.countVote4 (5 ms)
+[ RUN      ] IRTest.countVote5
+ir_test.cpp:187: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected1
+    Which is: { { 4, 2, 2, 2 }, { 4, 0, 2, 4 }, { 5, 0, 0, 5 } }
+ir_test.cpp:189: Failure
+Expected equality of these values:
+  actual
+    Which is: { { 4, 2, 2, 2 }, { 5, 2, 0, 3 }, { 5, 0, 0, 5 } }
+  expected3
+    Which is: { { 4, 2, 2, 2 }, { 5, 3, 2, 0 }, { 6, 3, 0, 0 } }
+ir_test.cpp:191: Failure
+Expected equality of these values:
+  ir->getCandidateList()[3]
+    Which is: 0x558a6c93a9d0
+  ir->getWinner()
+    Which is: 0x558a6c93af20
+[  FAILED  ] IRTest.countVote5 (4 ms)
+[----------] 7 tests from IRTest (20 ms total)
+
+[----------] 5 tests from CandidateTest
+[ RUN      ] CandidateTest.nameSetterGetter1
+[       OK ] CandidateTest.nameSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.partySetterGetter1
+[       OK ] CandidateTest.partySetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.votesSetterGetter1
+[       OK ] CandidateTest.votesSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.eliminatedSetterGetter1
+[       OK ] CandidateTest.eliminatedSetterGetter1 (0 ms)
+[ RUN      ] CandidateTest.ballotListSetterGetter1
+[       OK ] CandidateTest.ballotListSetterGetter1 (0 ms)
+[----------] 5 tests from CandidateTest (0 ms total)
+
+[----------] 2 tests from BallotTest
+[ RUN      ] BallotTest.rankSetterGetter1
+[       OK ] BallotTest.rankSetterGetter1 (0 ms)
+[ RUN      ] BallotTest.voteSetterGetter1
+[       OK ] BallotTest.voteSetterGetter1 (0 ms)
+[----------] 2 tests from BallotTest (0 ms total)
+
+[----------] 4 tests from ElectionTest
+[ RUN      ] ElectionTest.typeSetterGetter1
+[       OK ] ElectionTest.typeSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numBallotsSetterGetter1
+[       OK ] ElectionTest.numBallotsSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.numCandidatesSetterGetter1
+[       OK ] ElectionTest.numCandidatesSetterGetter1 (0 ms)
+[ RUN      ] ElectionTest.candSetterGetter1
+[       OK ] ElectionTest.candSetterGetter1 (0 ms)
+[----------] 4 tests from ElectionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 28 tests from 5 test suites ran. (41 ms total)
+[  PASSED  ] 27 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] IRTest.countVote5
+
+ 1 FAILED TEST

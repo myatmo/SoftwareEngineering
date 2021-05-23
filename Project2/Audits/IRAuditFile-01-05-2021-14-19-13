@@ -1,0 +1,37 @@
+IR Election Run Audit
+IR voting info colleciton
+Starting read from file
+Number of candidates set to: 4
+Added Rosen, D with 0,  to list
+Added Kleinberg, R with 0,  to list
+Added Chou, I with 0,  to list
+Added Royce, I with 0,  to list
+Set number of ballots to 6
+checking invalidated: 0
+Process ballot 0: 1,3,4,2 given to Rosen, D with 1
+checking invalidated: 1
+Process ballot 1: ,,, given to nobody
+checking invalidated: 0
+Process ballot 2: 1,2,3, given to Rosen, D with 2
+checking invalidated: 0
+Process ballot 3: 3,2,1,4 given to Chou, I with 1
+checking invalidated: 1
+Process ballot 4: ,,, given to nobody
+checking invalidated: 0
+Process ballot 5: 3,,,1 given to Royce, I with 1
+Set number of ballots to 6
+checking invalidated: 1
+Process ballot 0: ,,, given to nobody
+checking invalidated: 1
+Process ballot 1: ,,, given to nobody
+checking invalidated: 1
+Process ballot 2: ,,, given to nobody
+checking invalidated: 1
+Process ballot 3: ,,, given to nobody
+checking invalidated: 1
+Process ballot 4: ,,, given to nobody
+checking invalidated: 1
+Process ballot 5: ,,, given to nobody
+Start IR Vote Counting Process...
+Majority to win calculated: 0
+Rosen, D with 2 has majority!

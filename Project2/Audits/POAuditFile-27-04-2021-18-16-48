@@ -1,0 +1,18 @@
+PO Election Run Audit
+PO voting info colleciton
+Starting read from file
+Number of candidates set to: 4
+Added Rosen, D with 0,  to list
+Added Kleinberg, R with 0,  to list
+Added Chou, I with 0,  to list
+Added Royce, I with 0,  to list
+Set number of ballots to 9
+Process ballot 0: 1,,, given to Rosen, D with 1
+Process ballot 1: 1,,, given to Rosen, D with 2
+Process ballot 2: 1,,, given to Rosen, D with 3
+Process ballot 3: ,1,, given to Kleinberg, R with 1
+Process ballot 4: ,1,, given to Kleinberg, R with 2
+Process ballot 5: ,,1, given to Chou, I with 1
+Process ballot 6: ,,,1 given to Royce, I with 1
+Process ballot 7: ,1,, given to Kleinberg, R with 3
+Process ballot 8: 1,,, given to Rosen, D with 4

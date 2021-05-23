@@ -1,0 +1,121 @@
+OPL Election Run Audit
+OPL voting info collection
+Starting read from file
+Number of candidates set to: 6
+Added Pike, D with 0,  to list
+Added Foster, D with 0,  to list
+Added Deutsch, R with 0,  to list
+Added Borg, R with 0,  to list
+Added Jones, R with 0,  to list
+Added Smith, I with 0,  to list
+Set number of seats to 3
+Set number of ballots to 10
+Process ballot 0: 1,,,,,,,,,,,
+given to Pike, D with 1
+Process ballot 1: 1,,,,,,,,,,,
+given to Pike, D with 2
+Process ballot 2: ,1,,,,,,,,,,
+given to Foster, D with 1
+Process ballot 3: ,,,,1,,,,,,,
+given to Jones, R with 1
+Process ballot 4: ,,,,,1,,,,,,
+given to Smith, I with 1
+Process ballot 5: ,,,1,,,,,,,,
+given to Borg, R with 1
+Process ballot 6: ,,,1,,,,,,,,
+given to Borg, R with 2
+Process ballot 7: 1,,,,,,,,,,,
+given to Pike, D with 3
+Process ballot 8: ,1,,,,,,,,,,
+given to Foster, D with 2
+Process ballot 9: 1,,,,,,,,,,,
+given to Pike, D with 4
+Set number of ballots to 10
+Process ballot 0: ,,,,,1,,,,,,
+given to Smith, I with 2
+Process ballot 1: ,,,,,1,,,,,,
+given to Smith, I with 3
+Process ballot 2: ,1,,,,,,,,,,
+given to Foster, D with 3
+Process ballot 3: ,,,,1,,,,,,,
+given to Jones, R with 2
+Process ballot 4: ,,,,,1,,,,,,
+given to Smith, I with 4
+Process ballot 5: ,,,1,,,,,,,,
+given to Borg, R with 3
+Process ballot 6: ,,,1,,,,,,,,
+given to Borg, R with 4
+Process ballot 7: 1,,,,,,,,,,,
+given to Pike, D with 5
+Process ballot 8: ,1,,,,,,,,,,
+given to Foster, D with 4
+Process ballot 9: ,,,,,1,,,,,,
+given to Smith, I with 5
+Set number of ballots to 10
+Process ballot 0: ,1,,,,,,,,,,
+given to Foster, D with 5
+Process ballot 1: ,1,,,,,,,,,,
+given to Foster, D with 6
+Process ballot 2: ,1,,,,,,,,,,
+given to Foster, D with 7
+Process ballot 3: ,,,,1,,,,,,,
+given to Jones, R with 3
+Process ballot 4: ,,,,,1,,,,,,
+given to Smith, I with 6
+Process ballot 5: ,,,1,,,,,,,,
+given to Borg, R with 5
+Process ballot 6: ,,,1,,,,,,,,
+given to Borg, R with 6
+Process ballot 7: 1,,,,,,,,,,,
+given to Pike, D with 6
+Process ballot 8: ,1,,,,,,,,,,
+given to Foster, D with 8
+Process ballot 9: 1,,,,,,,,,,,
+given to Pike, D with 7
+Quota Calculated: 30/3 = 10
+Calculating Seat allocations
+Republicans first allocation is 0
+Total seat allocation is now 0
+Democrats first allocation is 1
+Total seat allocation is now 1
+Independents first allocation is 0
+Total seat allocation is now 1
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 1 for Republicans
+Total Seats is now 1 for Democrats
+Total Seats is now 1 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 9 total votes
+Democrats have 15 total votes
+Independents have 6 total votes
+Sorting parties based on number of votes per candidate
+Borg, R with 6 declared a winner!
+Foster, D with 8 declared a winner!
+Smith, I with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 3
+Number of Votes: 30
+Quota: 10
+First Round Allocation: 0, 1, 0
+Second Round Allocation: 1, 1, 0
+Republican Candidates: 
+Borg, R with 6
+Jones, R with 3
+Deutsch, R with 0
+Total Republican Votes: 9
+Democrat Candidates: 
+Foster, D with 8
+Pike, D with 7
+Total Democrat Votes: 15
+Independent Candidates: 
+Smith, I with 6
+Total Inpedendent Votes: 6
+Winning Candidates: 
+Borg, R with 6
+Foster, D with 8
+Smith, I with 6

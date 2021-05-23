@@ -1,0 +1,3143 @@
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 4
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 5 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Transferring ballot 9 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand1, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 3 new number of votes to 3
+Updated votes for Cand1, N with 3
+Setting Cand2, N with 2 new number of votes to 2
+Updated votes for Cand2, N with 2
+Cand3, N with 0 Eliminated!
+Updated votes for Cand3, N with 0
+Coin toss made Cand3, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 3
+New loser found: Cand2, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Choice 3 not found
+Incrementing rank to 4
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 3 new number of votes to 3
+Updated votes for Cand1, N with 3
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Cand3, N with 0 Eliminated!
+Updated votes for Cand3, N with 0
+Cand2, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 4
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 5 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Transferring ballot 9 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand1, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 3 new number of votes to 3
+Updated votes for Cand1, N with 3
+Setting Cand2, N with 2 new number of votes to 2
+Updated votes for Cand2, N with 2
+Cand3, N with 0 Eliminated!
+Updated votes for Cand3, N with 0
+Coin toss made Cand3, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 3
+New loser found: Cand2, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Choice 3 not found
+Incrementing rank to 4
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 3 new number of votes to 3
+Updated votes for Cand1, N with 3
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Cand3, N with 0 Eliminated!
+Updated votes for Cand3, N with 0
+Cand2, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 4
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 5 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Transferring ballot 9 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand1, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 3 new number of votes to 3
+Updated votes for Cand1, N with 3
+Setting Cand2, N with 2 new number of votes to 2
+Updated votes for Cand2, N with 2
+Cand3, N with 0 Eliminated!
+Updated votes for Cand3, N with 0
+Coin toss made Cand3, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 3
+New loser found: Cand2, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Choice 3 not found
+Incrementing rank to 4
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 3 new number of votes to 3
+Updated votes for Cand1, N with 3
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Cand3, N with 0 Eliminated!
+Updated votes for Cand3, N with 0
+Cand2, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 4
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 4 new number of votes to 4
+Updated votes for Cand0, N with 4
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Setting Cand2, N with 2 new number of votes to 2
+Updated votes for Cand2, N with 2
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Coin toss made Cand1, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 4
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 4
+Adding loser to list in case of tie: Cand2, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 4 gets the vote!
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 5 new number of votes to 5
+Updated votes for Cand3, N with 5
+Cand2, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Coin toss to determine winner, no majority found
+Cand0, N with 5 is the winner!
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 4
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 4 new number of votes to 4
+Updated votes for Cand0, N with 4
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Setting Cand2, N with 2 new number of votes to 2
+Updated votes for Cand2, N with 2
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Coin toss made Cand1, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 4
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 4
+Adding loser to list in case of tie: Cand2, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 4 gets the vote!
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 5 new number of votes to 5
+Updated votes for Cand3, N with 5
+Cand2, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Coin toss to determine winner, no majority found
+Cand3, N with 5 is the winner!
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 1
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 5
+New loser found: Cand1, N with 2
+New loser found: Cand3, N with 3
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+New loser found: Cand0, N with 4
+New loser found: Cand1, N with 2
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 4 new number of votes to 4
+Updated votes for Cand0, N with 4
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Setting Cand2, N with 2 new number of votes to 2
+Updated votes for Cand2, N with 2
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Coin toss made Cand1, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+New loser found: Cand0, N with 4
+New loser found: Cand2, N with 2
+New loser found: Cand3, N with 4
+Adding loser to list in case of tie: Cand2, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 4 gets the vote!
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 5 new number of votes to 5
+Updated votes for Cand3, N with 5
+Cand2, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Coin toss to determine winner, no majority found
+Cand3, N with 5 is the winner!
+Setting Rosen, D with 4 new number of votes to 4
+Updated votes for Rosen, D with 4
+Kleinberg, R with 0 Eliminated!
+Updated votes for Kleinberg, R with 0
+Setting Chou, I with 2 new number of votes to 2
+Updated votes for Chou, I with 2
+Royce, I with 0 Eliminated!
+Updated votes for Royce, I with 0
+Setting Rosen, D with 4 new number of votes to 4
+Updated votes for Rosen, D with 4
+Kleinberg, R with 0 Eliminated!
+Updated votes for Kleinberg, R with 0
+Setting Chou, I with 2 new number of votes to 2
+Updated votes for Chou, I with 2
+Royce, I with 0 Eliminated!
+Updated votes for Royce, I with 0
+Setting Rosen, D with 4 new number of votes to 4
+Updated votes for Rosen, D with 4
+Kleinberg, R with 0 Eliminated!
+Updated votes for Kleinberg, R with 0
+Setting Chou, I with 2 new number of votes to 2
+Updated votes for Chou, I with 2
+Royce, I with 0 Eliminated!
+Updated votes for Royce, I with 0
+Setting Rosen, D with 4 new number of votes to 4
+Updated votes for Rosen, D with 4
+Kleinberg, R with 0 Eliminated!
+Updated votes for Kleinberg, R with 0
+Setting Chou, I with 2 new number of votes to 2
+Updated votes for Chou, I with 2
+Royce, I with 0 Eliminated!
+Updated votes for Royce, I with 0
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+Minimum vote count: 1
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+Minimum vote count: 1
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+Minimum vote count: 1
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Coin toss made Cand2, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 5 new number of votes to 5
+Updated votes for Cand3, N with 5
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Coin toss to determine winner, no majority found
+Cand3, N with 5 is the winner!
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 3
+Total seat allocation is now 7
+Independents first allocation is 2
+Total seat allocation is now 9
+Remaining seats to fill is 1
+Independents get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 4 for Republicans
+Total Seats is now 3 for Democrats
+Total Seats is now 3 for Independents
+Quota Calculated: 83/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 8
+Republicans first allocation is too many! Set to 4
+Total seat allocation is now 4
+Democrats first allocation is 7
+Democrats first allocation is too many! Set to 4
+Total seat allocation is now 8
+Independents first allocation is 5
+Independents first allocation is too many! Set to 3
+Total seat allocation is now 11
+Remaining seats to fill is -1
+Total Seats is now 4 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 70 total votes
+Democrats have 56 total votes
+Independents have 44 total votes
+Sorting parties based on number of votes per candidate
+br, N with 13 declared a winner!
+ar, N with 10 declared a winner!
+cr, N with 10 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+bd, N with 4 declared a winner!
+ai, N with 11 declared a winner!
+bi, N with 8 declared a winner!
+ci, N with 3 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 0
+Quota: 8
+First Round Allocation: 4, 4, 3
+Second Round Allocation: 0, 4, 3
+Republican Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+Total Republican Votes: 70
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 56
+Independent Candidates: 
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Total Inpedendent Votes: 44
+Winning Candidates: 
+br, N with 13
+ar, N with 10
+cr, N with 10
+dr, N with 4
+ad, N with 11
+dd, N with 7
+cd, N with 6
+bd, N with 4
+ai, N with 11
+bi, N with 8
+ci, N with 3
+Quota Calculated: 86/10 = 8
+Calculating Seat allocations
+Republicans first allocation is 4
+Total seat allocation is now 4
+Democrats first allocation is 6
+Total seat allocation is now 10
+Independents first allocation is 0
+Total seat allocation is now 10
+Remaining seats to fill is 0
+Total Seats is now 4 for Republicans
+Total Seats is now 6 for Democrats
+Total Seats is now 0 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 34 total votes
+Democrats have 49 total votes
+Independents have 0 total votes
+Sorting parties based on number of votes per candidate
+ar, N with 11 declared a winner!
+br, N with 10 declared a winner!
+cr, N with 9 declared a winner!
+dr, N with 4 declared a winner!
+ad, N with 11 declared a winner!
+dd, N with 7 declared a winner!
+ed, N with 7 declared a winner!
+fd, N with 7 declared a winner!
+gd, N with 7 declared a winner!
+cd, N with 6 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 10
+Number of Votes: 86
+Quota: 8
+First Round Allocation: 4, 6, 0
+Second Round Allocation: 0, 6, 0
+Republican Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+Total Republican Votes: 34
+Democrat Candidates: 
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+bd, N with 4
+Total Democrat Votes: 49
+Independent Candidates: 
+Total Inpedendent Votes: 0
+Winning Candidates: 
+ar, N with 11
+br, N with 10
+cr, N with 9
+dr, N with 4
+ad, N with 11
+dd, N with 7
+ed, N with 7
+fd, N with 7
+gd, N with 7
+cd, N with 6
+Quota Calculated: 138/9 = 15
+Calculating Seat allocations
+Republicans first allocation is 1
+Total seat allocation is now 1
+Democrats first allocation is 3
+Total seat allocation is now 4
+Independents first allocation is 3
+Total seat allocation is now 7
+Remaining seats to fill is 2
+Republicans get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 1
+Democrats get another seat in second alloaction for 1 second seat total
+Remaining seats to fill is now 0
+Total Seats is now 2 for Republicans
+Total Seats is now 4 for Democrats
+Total Seats is now 3 for Independents
+Counting Votes
+Calculate seat vote total for each party
+Republicans have 28 total votes
+Democrats have 58 total votes
+Independents have 52 total votes
+Sorting parties based on number of votes per candidate
+dr, R with 14 declared a winner!
+cr, R with 10 declared a winner!
+dd, D with 17 declared a winner!
+cd, D with 16 declared a winner!
+bd, D with 14 declared a winner!
+ad, D with 11 declared a winner!
+ci, I with 23 declared a winner!
+bi, I with 18 declared a winner!
+ai, I with 11 declared a winner!
+OPL Vote Summary: 
+Number of Seats: 9
+Number of Votes: 138
+Quota: 15
+First Round Allocation: 1, 3, 3
+Second Round Allocation: 1, 3, 3
+Republican Candidates: 
+dr, R with 14
+cr, R with 10
+br, R with 3
+ar, R with 1
+Total Republican Votes: 28
+Democrat Candidates: 
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+Total Democrat Votes: 58
+Independent Candidates: 
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Total Inpedendent Votes: 52
+Winning Candidates: 
+dr, R with 14
+cr, R with 10
+dd, D with 17
+cd, D with 16
+bd, D with 14
+ad, D with 11
+ci, I with 23
+bi, I with 18
+ai, I with 11
+Majority to win calculated: 5
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+Minimum vote count: 1
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 2 new number of votes to 2
+Updated votes for Cand3, N with 2
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Cand0, N with 6 has majority!
+Majority to win calculated: 5
+Minimum vote count: 1
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+Minimum vote count: 1
+Adding loser to list in case of tie: Cand2, N with 1
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Cand2, N with 1 is the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Choice 2 not found
+Incrementing rank to 3
+Found choice 3, candidate Cand0, N with 5 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 6 new number of votes to 6
+Updated votes for Cand0, N with 6
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 4 new number of votes to 4
+Updated votes for Cand3, N with 4
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Winner found!
+Cand0, N with 6 won the election!
+Majority to win calculated: 5
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Adding loser to list in case of tie: Cand2, N with 2
+Adding loser to list in case of tie: Cand3, N with 2
+Transferring ballot 4 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 2 gets the vote!
+Transferring ballot 8 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand0, N with 4 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Setting Cand1, N with 2 new number of votes to 2
+Updated votes for Cand1, N with 2
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 3 new number of votes to 3
+Updated votes for Cand3, N with 3
+Coin toss made Cand2, N with 2 the loser
+Transferring vote of the loser...
+3 candidates remain
+Minimum vote count: 2
+Adding loser to list in case of tie: Cand1, N with 2
+Transferring ballot 6 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Transferring ballot 7 to next choice
+Looking for choice number 2
+Found choice 2, candidate Cand3, N with 3 gets the vote!
+Setting Cand0, N with 5 new number of votes to 5
+Updated votes for Cand0, N with 5
+Cand1, N with 0 Eliminated!
+Updated votes for Cand1, N with 0
+Cand2, N with 0 Eliminated!
+Updated votes for Cand2, N with 0
+Setting Cand3, N with 5 new number of votes to 5
+Updated votes for Cand3, N with 5
+Cand1, N with 2 is the loser
+Transferring vote of the loser...
+2 candidates remain
+Only 2 candidates left check for majority or do coin toss
+Coin toss to determine winner, no majority found
+Cand0, N with 5 is the winner!

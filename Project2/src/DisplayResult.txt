@@ -1,0 +1,6 @@
+Candidates & Parties  || First Choice Votes 
+             Rosen (D)||                   0
+         Kleinberg (R)||                 100
+              Chou (I)||                   0
+             Royce (I)||                   0
+Winner: Kleinberg (R).

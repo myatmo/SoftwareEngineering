@@ -1,0 +1,132 @@
+\hypertarget{classBallot}{}\doxysection{Ballot Class Reference}
+\label{classBallot}\index{Ballot@{Ballot}}
+
+
+This is the ballot class for the vote counting system.  
+
+
+
+
+{\ttfamily \#include $<$ballot.\+h$>$}
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classBallot_af9078126260b3f58ea91f6b82797396b}{Ballot}} ()
+\begin{DoxyCompactList}\small\item\em Generation of a ballot object. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classBallot_aefa9d5bd513661ec80585475f42eeb83}{$\sim$\+Ballot}} ()
+\begin{DoxyCompactList}\small\item\em destruction of a ballot object. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classBallot_a34cbd6a5092c79f36b15e35ea55a197e}{set\+Vote}} (string)
+\begin{DoxyCompactList}\small\item\em setter for the vote string name. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classBallot_a770f38411c51db5a42f7a7141a909ab2}{set\+Rank}} (int)
+\begin{DoxyCompactList}\small\item\em setter for the vote current rank. \end{DoxyCompactList}\item 
+vector$<$ int $>$ \mbox{\hyperlink{classBallot_aec7f2eeb1b31a00418c80ed4619708fc}{get\+Vote}} ()
+\begin{DoxyCompactList}\small\item\em getter for the vote rankings. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classBallot_a707cc9b0eb60b8013e094fe4a5095aed}{get\+Rank}} ()
+\begin{DoxyCompactList}\small\item\em getter for the ballots current rank. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This is the ballot class for the vote counting system. 
+
+This class will provide methods for the \mbox{\hyperlink{classIR}{IR}} election type 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classBallot_af9078126260b3f58ea91f6b82797396b}\label{classBallot_af9078126260b3f58ea91f6b82797396b}} 
+\index{Ballot@{Ballot}!Ballot@{Ballot}}
+\index{Ballot@{Ballot}!Ballot@{Ballot}}
+\doxysubsubsection{\texorpdfstring{Ballot()}{Ballot()}}
+{\footnotesize\ttfamily Ballot\+::\+Ballot (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Generation of a ballot object. 
+
+This function will be used for ir voting system purposes.
+
+\begin{DoxyReturn}{Returns}
+ballot object to be used in \mbox{\hyperlink{classIR}{IR}} election vote counting 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classBallot_aefa9d5bd513661ec80585475f42eeb83}\label{classBallot_aefa9d5bd513661ec80585475f42eeb83}} 
+\index{Ballot@{Ballot}!````~Ballot@{$\sim$Ballot}}
+\index{````~Ballot@{$\sim$Ballot}!Ballot@{Ballot}}
+\doxysubsubsection{\texorpdfstring{$\sim$Ballot()}{~Ballot()}}
+{\footnotesize\ttfamily Ballot\+::$\sim$\+Ballot (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+destruction of a ballot object. 
+
+This function will be used for ir election purposes. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classBallot_a707cc9b0eb60b8013e094fe4a5095aed}\label{classBallot_a707cc9b0eb60b8013e094fe4a5095aed}} 
+\index{Ballot@{Ballot}!getRank@{getRank}}
+\index{getRank@{getRank}!Ballot@{Ballot}}
+\doxysubsubsection{\texorpdfstring{getRank()}{getRank()}}
+{\footnotesize\ttfamily int Ballot\+::get\+Rank (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the ballots current rank. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+\begin{DoxyReturn}{Returns}
+current rank as an int 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classBallot_aec7f2eeb1b31a00418c80ed4619708fc}\label{classBallot_aec7f2eeb1b31a00418c80ed4619708fc}} 
+\index{Ballot@{Ballot}!getVote@{getVote}}
+\index{getVote@{getVote}!Ballot@{Ballot}}
+\doxysubsubsection{\texorpdfstring{getVote()}{getVote()}}
+{\footnotesize\ttfamily vector$<$ int $>$ Ballot\+::get\+Vote (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the vote rankings. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+\begin{DoxyReturn}{Returns}
+vote as an int vector 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classBallot_a770f38411c51db5a42f7a7141a909ab2}\label{classBallot_a770f38411c51db5a42f7a7141a909ab2}} 
+\index{Ballot@{Ballot}!setRank@{setRank}}
+\index{setRank@{setRank}!Ballot@{Ballot}}
+\doxysubsubsection{\texorpdfstring{setRank()}{setRank()}}
+{\footnotesize\ttfamily void Ballot\+::set\+Rank (\begin{DoxyParamCaption}\item[{int}]{rank }\end{DoxyParamCaption})}
+
+
+
+setter for the vote current rank. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & for current rank of ballot \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classBallot_a34cbd6a5092c79f36b15e35ea55a197e}\label{classBallot_a34cbd6a5092c79f36b15e35ea55a197e}} 
+\index{Ballot@{Ballot}!setVote@{setVote}}
+\index{setVote@{setVote}!Ballot@{Ballot}}
+\doxysubsubsection{\texorpdfstring{setVote()}{setVote()}}
+{\footnotesize\ttfamily void Ballot\+::set\+Vote (\begin{DoxyParamCaption}\item[{string}]{values }\end{DoxyParamCaption})}
+
+
+
+setter for the vote string name. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes. this will change the input to a int vector
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em string} & for ranked votes \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/include/\mbox{\hyperlink{ballot_8h}{ballot.\+h}}\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/src/ballot.\+cpp\end{DoxyCompactItemize}

@@ -1,0 +1,248 @@
+\hypertarget{classElection}{}\doxysection{Election Class Reference}
+\label{classElection}\index{Election@{Election}}
+
+
+This is the election class for the vote counting system.  
+
+
+
+
+{\ttfamily \#include $<$election.\+h$>$}
+
+
+
+Inheritance diagram for Election\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=320pt]{classElection__inherit__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classElection_a384f3cbb012bb7c7e5344a6f9226f99f}{Election}} ()
+\begin{DoxyCompactList}\small\item\em Generation of an election object. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classElection_a5716fcfc390fe42d3cce8ae8eac51ee5}{$\sim$\+Election}} ()
+\begin{DoxyCompactList}\small\item\em destruction of an election object. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classElection_a5f74c777b502400df9e4eabffe78fccf}{setvoting\+Type}} (string)
+\begin{DoxyCompactList}\small\item\em setter for the number of seats in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classElection_a8e065fde84ea9ae58a8aa99138eb5952}{set\+Num\+Ballots}} (int)
+\begin{DoxyCompactList}\small\item\em setter for the number of ballots in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classElection_a811850dcd72c4dd399adb153f0866843}{set\+Num\+Candidates}} (int)
+\begin{DoxyCompactList}\small\item\em setter for the number of candidates in an election. \end{DoxyCompactList}\item 
+string \mbox{\hyperlink{classElection_add498fd177c095da18fb9355fa7a1476}{get\+Voting\+Type}} ()
+\begin{DoxyCompactList}\small\item\em getter for the voting type of an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classElection_ade6ad99d57f425d06f7f6f5bf28bed5c}{get\+Num\+Ballots}} ()
+\begin{DoxyCompactList}\small\item\em getter for the number of ballots in an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classElection_aea563e0f8efc014fe5bc6ca55b078d9a}{get\+Num\+Candidates}} ()
+\begin{DoxyCompactList}\small\item\em getter for the number of candidates in an election. \end{DoxyCompactList}\item 
+vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ \mbox{\hyperlink{classElection_a89fbd4ea0a4b7a2fb76a75aa1d92496e}{get\+Candidate\+List}} ()
+\begin{DoxyCompactList}\small\item\em getter for the list of candidates in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classElection_a53febd276791679665471db9700f1c66}{push\+Candidatet\+List}} (\mbox{\hyperlink{classCandidate}{Candidate}})
+\begin{DoxyCompactList}\small\item\em adds candidate to candidate list in an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classElection_a49f41a386383d3ef10914587b19669f0}{coin\+Toss}} (vector$<$ int $>$)
+\begin{DoxyCompactList}\small\item\em method to settle a tie between 2 or more candidates. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classElection_aaea6503584a9a19d22ad71857cde4b3f}\label{classElection_aaea6503584a9a19d22ad71857cde4b3f}} 
+int {\bfseries num\+Ballots}
+\item 
+\mbox{\Hypertarget{classElection_aa22ee1d17f2b847a5bf065aa4ff28dad}\label{classElection_aa22ee1d17f2b847a5bf065aa4ff28dad}} 
+int {\bfseries num\+Candidates}
+\item 
+\mbox{\Hypertarget{classElection_afbf63bfe9de9b5f3c03c88555e146bcb}\label{classElection_afbf63bfe9de9b5f3c03c88555e146bcb}} 
+vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ {\bfseries candidate\+List}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+This is the election class for the vote counting system. 
+
+This class will provide methods and attributes for both election types 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classElection_a384f3cbb012bb7c7e5344a6f9226f99f}\label{classElection_a384f3cbb012bb7c7e5344a6f9226f99f}} 
+\index{Election@{Election}!Election@{Election}}
+\index{Election@{Election}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{Election()}{Election()}}
+{\footnotesize\ttfamily Election\+::\+Election (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Generation of an election object. 
+
+This function will be used for election purposes.
+
+\begin{DoxyReturn}{Returns}
+election object to be used in election vote counting 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classElection_a5716fcfc390fe42d3cce8ae8eac51ee5}\label{classElection_a5716fcfc390fe42d3cce8ae8eac51ee5}} 
+\index{Election@{Election}!````~Election@{$\sim$Election}}
+\index{````~Election@{$\sim$Election}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{$\sim$Election()}{~Election()}}
+{\footnotesize\ttfamily Election\+::$\sim$\+Election (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+destruction of an election object. 
+
+This function will be used for opl election purposes. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classElection_a49f41a386383d3ef10914587b19669f0}\label{classElection_a49f41a386383d3ef10914587b19669f0}} 
+\index{Election@{Election}!coinToss@{coinToss}}
+\index{coinToss@{coinToss}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{coinToss()}{coinToss()}}
+{\footnotesize\ttfamily int Election\+::coin\+Toss (\begin{DoxyParamCaption}\item[{vector$<$ int $>$}]{numbers }\end{DoxyParamCaption})}
+
+
+
+method to settle a tie between 2 or more candidates. 
+
+This function will be used for election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em list} & of ints representing candidates\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+int representing the candidate from the input that won the coin toss 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classElection_a89fbd4ea0a4b7a2fb76a75aa1d92496e}\label{classElection_a89fbd4ea0a4b7a2fb76a75aa1d92496e}} 
+\index{Election@{Election}!getCandidateList@{getCandidateList}}
+\index{getCandidateList@{getCandidateList}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{getCandidateList()}{getCandidateList()}}
+{\footnotesize\ttfamily vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ Election\+::get\+Candidate\+List (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the list of candidates in an election. 
+
+This function will be used for election purposes.
+
+\begin{DoxyReturn}{Returns}
+list of candidates in an election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classElection_ade6ad99d57f425d06f7f6f5bf28bed5c}\label{classElection_ade6ad99d57f425d06f7f6f5bf28bed5c}} 
+\index{Election@{Election}!getNumBallots@{getNumBallots}}
+\index{getNumBallots@{getNumBallots}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{getNumBallots()}{getNumBallots()}}
+{\footnotesize\ttfamily int Election\+::get\+Num\+Ballots (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the number of ballots in an election. 
+
+This function will be used for election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the number of ballots in an election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classElection_aea563e0f8efc014fe5bc6ca55b078d9a}\label{classElection_aea563e0f8efc014fe5bc6ca55b078d9a}} 
+\index{Election@{Election}!getNumCandidates@{getNumCandidates}}
+\index{getNumCandidates@{getNumCandidates}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{getNumCandidates()}{getNumCandidates()}}
+{\footnotesize\ttfamily int Election\+::get\+Num\+Candidates (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the number of candidates in an election. 
+
+This function will be used for election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the number of candidates in an election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classElection_add498fd177c095da18fb9355fa7a1476}\label{classElection_add498fd177c095da18fb9355fa7a1476}} 
+\index{Election@{Election}!getVotingType@{getVotingType}}
+\index{getVotingType@{getVotingType}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{getVotingType()}{getVotingType()}}
+{\footnotesize\ttfamily string Election\+::get\+Voting\+Type (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the voting type of an election. 
+
+This function will be used for election purposes.
+
+\begin{DoxyReturn}{Returns}
+string representing the voting type 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classElection_a53febd276791679665471db9700f1c66}\label{classElection_a53febd276791679665471db9700f1c66}} 
+\index{Election@{Election}!pushCandidatetList@{pushCandidatetList}}
+\index{pushCandidatetList@{pushCandidatetList}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{pushCandidatetList()}{pushCandidatetList()}}
+{\footnotesize\ttfamily void Election\+::push\+Candidatet\+List (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classCandidate}{Candidate}}}]{new\+Candidate }\end{DoxyParamCaption})}
+
+
+
+adds candidate to candidate list in an election. 
+
+This function will be used for election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em \mbox{\hyperlink{classCandidate}{Candidate}}} & to be added to list \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classElection_a8e065fde84ea9ae58a8aa99138eb5952}\label{classElection_a8e065fde84ea9ae58a8aa99138eb5952}} 
+\index{Election@{Election}!setNumBallots@{setNumBallots}}
+\index{setNumBallots@{setNumBallots}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{setNumBallots()}{setNumBallots()}}
+{\footnotesize\ttfamily void Election\+::set\+Num\+Ballots (\begin{DoxyParamCaption}\item[{int}]{num }\end{DoxyParamCaption})}
+
+
+
+setter for the number of ballots in an election. 
+
+This function will be used for election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of ballots in an election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classElection_a811850dcd72c4dd399adb153f0866843}\label{classElection_a811850dcd72c4dd399adb153f0866843}} 
+\index{Election@{Election}!setNumCandidates@{setNumCandidates}}
+\index{setNumCandidates@{setNumCandidates}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{setNumCandidates()}{setNumCandidates()}}
+{\footnotesize\ttfamily void Election\+::set\+Num\+Candidates (\begin{DoxyParamCaption}\item[{int}]{num }\end{DoxyParamCaption})}
+
+
+
+setter for the number of candidates in an election. 
+
+This function will be used for election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of candidates in an election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classElection_a5f74c777b502400df9e4eabffe78fccf}\label{classElection_a5f74c777b502400df9e4eabffe78fccf}} 
+\index{Election@{Election}!setvotingType@{setvotingType}}
+\index{setvotingType@{setvotingType}!Election@{Election}}
+\doxysubsubsection{\texorpdfstring{setvotingType()}{setvotingType()}}
+{\footnotesize\ttfamily void Election\+::setvoting\+Type (\begin{DoxyParamCaption}\item[{string}]{vote\+Type }\end{DoxyParamCaption})}
+
+
+
+setter for the number of seats in an election. 
+
+This function will be used for election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em string} & representing the voting type \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/include/\mbox{\hyperlink{election_8h}{election.\+h}}\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/src/election.\+cpp\end{DoxyCompactItemize}

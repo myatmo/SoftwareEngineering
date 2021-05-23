@@ -1,0 +1,203 @@
+\hypertarget{classIR}{}\doxysection{IR Class Reference}
+\label{classIR}\index{IR@{IR}}
+
+
+This is the \mbox{\hyperlink{classIR}{IR}} class for the vote counting system.  
+
+
+
+
+{\ttfamily \#include $<$ir.\+h$>$}
+
+
+
+Inheritance diagram for IR\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=209pt]{classIR__inherit__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classIR_aa4098d98350ff7f6fa1d58ef97283946}{IR}} ()
+\begin{DoxyCompactList}\small\item\em Generation of an \mbox{\hyperlink{classIR}{IR}} object. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classIR_acc2e758f018c7b069315a826e9ca3043}{$\sim$\+IR}} ()
+\begin{DoxyCompactList}\small\item\em destruction of an \mbox{\hyperlink{classIR}{IR}} object. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classIR_a8b09145fcea45e3b217f289ee39432cd}{set\+Winner}} (\mbox{\hyperlink{classCandidate}{Candidate}})
+\begin{DoxyCompactList}\small\item\em setter for the winner in an \mbox{\hyperlink{classIR}{IR}} election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classIR_acc5b4c96c9a0a2c0597b6c5228cee500}{set\+Loser}} (\mbox{\hyperlink{classCandidate}{Candidate}})
+\begin{DoxyCompactList}\small\item\em setter for the loser in an \mbox{\hyperlink{classIR}{IR}} election. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classCandidate}{Candidate}} \mbox{\hyperlink{classIR_a6339209cc8bcb6accaa45def18c987df}{get\+Winner}} ()
+\begin{DoxyCompactList}\small\item\em getter for the winner of an \mbox{\hyperlink{classIR}{IR}} election. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classCandidate}{Candidate}} \mbox{\hyperlink{classIR_a9b35c577bbb17d716ee4395c369b2301}{get\+Loser}} ()
+\begin{DoxyCompactList}\small\item\em getter for the loser of an \mbox{\hyperlink{classIR}{IR}} election. \end{DoxyCompactList}\item 
+vector$<$ vector$<$ int $>$ $>$ \mbox{\hyperlink{classIR_a8c28097d4b4b2e77bdc6c4906efb9ca0}{get\+Transfer\+Votes}} ()
+\begin{DoxyCompactList}\small\item\em getter for the list of votes to be transfered in \mbox{\hyperlink{classIR}{IR}} election. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classCandidate}{Candidate}} \mbox{\hyperlink{classIR_a74751b883be2c3d940d3b325f32edf34}{count\+Vote}} (vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$)
+\begin{DoxyCompactList}\small\item\em counts the ballots of each candidate in the candidate list \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classIR_a717f26431f8e2c43ff74703488202cfc}{transfer\+Vote}} (\mbox{\hyperlink{classCandidate}{Candidate}}, vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ \&)
+\begin{DoxyCompactList}\small\item\em transfers votes from candidate to candidates in the list \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Additional Inherited Members}
+
+
+\doxysubsection{Detailed Description}
+This is the \mbox{\hyperlink{classIR}{IR}} class for the vote counting system. 
+
+This class will provide methods for the \mbox{\hyperlink{classIR}{IR}} election types 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classIR_aa4098d98350ff7f6fa1d58ef97283946}\label{classIR_aa4098d98350ff7f6fa1d58ef97283946}} 
+\index{IR@{IR}!IR@{IR}}
+\index{IR@{IR}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{IR()}{IR()}}
+{\footnotesize\ttfamily I\+R\+::\+IR (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Generation of an \mbox{\hyperlink{classIR}{IR}} object. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+\begin{DoxyReturn}{Returns}
+\mbox{\hyperlink{classIR}{IR}} object to be used in election vote counting 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classIR_acc2e758f018c7b069315a826e9ca3043}\label{classIR_acc2e758f018c7b069315a826e9ca3043}} 
+\index{IR@{IR}!````~IR@{$\sim$IR}}
+\index{````~IR@{$\sim$IR}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{$\sim$IR()}{~IR()}}
+{\footnotesize\ttfamily I\+R\+::$\sim$\+IR (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+destruction of an \mbox{\hyperlink{classIR}{IR}} object. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classIR_a74751b883be2c3d940d3b325f32edf34}\label{classIR_a74751b883be2c3d940d3b325f32edf34}} 
+\index{IR@{IR}!countVote@{countVote}}
+\index{countVote@{countVote}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{countVote()}{countVote()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classCandidate}{Candidate}} I\+R\+::count\+Vote (\begin{DoxyParamCaption}\item[{vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$}]{candidate\+List }\end{DoxyParamCaption})}
+
+
+
+counts the ballots of each candidate in the candidate list 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em list} & of candidates in an election\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+winning candidate 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classIR_a9b35c577bbb17d716ee4395c369b2301}\label{classIR_a9b35c577bbb17d716ee4395c369b2301}} 
+\index{IR@{IR}!getLoser@{getLoser}}
+\index{getLoser@{getLoser}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{getLoser()}{getLoser()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classCandidate}{Candidate}} I\+R\+::get\+Loser (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the loser of an \mbox{\hyperlink{classIR}{IR}} election. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+\begin{DoxyReturn}{Returns}
+candidate that lost an ir election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classIR_a8c28097d4b4b2e77bdc6c4906efb9ca0}\label{classIR_a8c28097d4b4b2e77bdc6c4906efb9ca0}} 
+\index{IR@{IR}!getTransferVotes@{getTransferVotes}}
+\index{getTransferVotes@{getTransferVotes}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{getTransferVotes()}{getTransferVotes()}}
+{\footnotesize\ttfamily vector$<$ vector$<$ int $>$ $>$ I\+R\+::get\+Transfer\+Votes (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the list of votes to be transfered in \mbox{\hyperlink{classIR}{IR}} election. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+\begin{DoxyReturn}{Returns}
+list of vote transfer lists 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classIR_a6339209cc8bcb6accaa45def18c987df}\label{classIR_a6339209cc8bcb6accaa45def18c987df}} 
+\index{IR@{IR}!getWinner@{getWinner}}
+\index{getWinner@{getWinner}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{getWinner()}{getWinner()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{classCandidate}{Candidate}} I\+R\+::get\+Winner (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the winner of an \mbox{\hyperlink{classIR}{IR}} election. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+\begin{DoxyReturn}{Returns}
+candidate that won an ir election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classIR_acc5b4c96c9a0a2c0597b6c5228cee500}\label{classIR_acc5b4c96c9a0a2c0597b6c5228cee500}} 
+\index{IR@{IR}!setLoser@{setLoser}}
+\index{setLoser@{setLoser}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{setLoser()}{setLoser()}}
+{\footnotesize\ttfamily void I\+R\+::set\+Loser (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classCandidate}{Candidate}}}]{candidate }\end{DoxyParamCaption})}
+
+
+
+setter for the loser in an \mbox{\hyperlink{classIR}{IR}} election. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em candidate} & that lost an \mbox{\hyperlink{classIR}{IR}} election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classIR_a8b09145fcea45e3b217f289ee39432cd}\label{classIR_a8b09145fcea45e3b217f289ee39432cd}} 
+\index{IR@{IR}!setWinner@{setWinner}}
+\index{setWinner@{setWinner}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{setWinner()}{setWinner()}}
+{\footnotesize\ttfamily void I\+R\+::set\+Winner (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classCandidate}{Candidate}}}]{candidate }\end{DoxyParamCaption})}
+
+
+
+setter for the winner in an \mbox{\hyperlink{classIR}{IR}} election. 
+
+This function will be used for \mbox{\hyperlink{classIR}{IR}} election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em candidate} & that won an \mbox{\hyperlink{classIR}{IR}} election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classIR_a717f26431f8e2c43ff74703488202cfc}\label{classIR_a717f26431f8e2c43ff74703488202cfc}} 
+\index{IR@{IR}!transferVote@{transferVote}}
+\index{transferVote@{transferVote}!IR@{IR}}
+\doxysubsubsection{\texorpdfstring{transferVote()}{transferVote()}}
+{\footnotesize\ttfamily void I\+R\+::transfer\+Vote (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classCandidate}{Candidate}}}]{loser,  }\item[{vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ \&}]{candidate\+List }\end{DoxyParamCaption})}
+
+
+
+transfers votes from candidate to candidates in the list 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em candidate} & that lost in current round\\
+\hline
+\mbox{\texttt{ in}}  & {\em list} & of candidates to redistribute votes to \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/include/\mbox{\hyperlink{ir_8h}{ir.\+h}}\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/src/ir.\+cpp\end{DoxyCompactItemize}

@@ -1,0 +1,457 @@
+\hypertarget{classOPL}{}\doxysection{O\+PL Class Reference}
+\label{classOPL}\index{OPL@{OPL}}
+
+
+This is the \mbox{\hyperlink{classOPL}{O\+PL}} class for the vote counting system.  
+
+
+
+
+{\ttfamily \#include $<$opl.\+h$>$}
+
+
+
+Inheritance diagram for O\+PL\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=209pt]{classOPL__inherit__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{classOPL_aee8e3e8733a174df302be1ee7b287a68}{O\+PL}} ()
+\begin{DoxyCompactList}\small\item\em Generation of an \mbox{\hyperlink{classOPL}{O\+PL}} object. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classOPL_a22c35b5bf51f6b8f8451a48fcc1f88ba}{$\sim$\+O\+PL}} ()
+\begin{DoxyCompactList}\small\item\em destruction of an \mbox{\hyperlink{classOPL}{O\+PL}} object. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a4223657db47195694ecf3eb30cc536ef}{set\+Num\+Seats}} (int num\+Seats)
+\begin{DoxyCompactList}\small\item\em setter for the number of seats in an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classOPL_aa9ee89de2086a7c9043107e983713d70}{get\+Num\+Seats}} ()
+\begin{DoxyCompactList}\small\item\em getter for the number of seats in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a7671204e95218f064a5321049b08b6a8}{set\+Rep\+Votes}} (int rep\+Votes)
+\begin{DoxyCompactList}\small\item\em setter for the number of republican votes in an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classOPL_af0f6cbd7765474885e1ea3de35747a4c}{get\+Rep\+Votes}} ()
+\begin{DoxyCompactList}\small\item\em getter for the number of republican votes in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a892901ebd84758688f90564a3934849b}{set\+Dem\+Votes}} (int dem\+Votes)
+\begin{DoxyCompactList}\small\item\em setter for the number of democrat votes in an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classOPL_a477cc6be2d922fcd4c8c7c9e36f8b719}{get\+Dem\+Votes}} ()
+\begin{DoxyCompactList}\small\item\em getter for the number of democrat votes in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_afde63c1f66dbcc3230151828bcbf2166}{set\+Ind\+Votes}} (int ind\+Votes)
+\begin{DoxyCompactList}\small\item\em setter for the number of independent votes in an election. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classOPL_a4763a3ac3a8c6544d62326b086054f68}{get\+Ind\+Votes}} ()
+\begin{DoxyCompactList}\small\item\em getter for the number of independent votes in an election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a49fe6ae4c41e86969627bdf919a1262e}{set\+First\+Seats}} (vector$<$ int $>$ first\+Seats)
+\begin{DoxyCompactList}\small\item\em setter for the vector of first allocation party seats in an opl election. \end{DoxyCompactList}\item 
+vector$<$ int $>$ \mbox{\hyperlink{classOPL_a94d84ef2d56873f407ecb07339039519}{get\+First\+Seats}} ()
+\begin{DoxyCompactList}\small\item\em getter for the vector of first allocation party seats in an opl election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a4b42b5616af0a2d64cc730bacb684ca8}{set\+Remaining\+Votes}} (vector$<$ int $>$ remaining\+Votes)
+\begin{DoxyCompactList}\small\item\em setter for the vector of remaining party votes in an opl election. \end{DoxyCompactList}\item 
+vector$<$ int $>$ \mbox{\hyperlink{classOPL_a13787124362253d6851d47b7b0f4a1be}{get\+Remaining\+Votes}} ()
+\begin{DoxyCompactList}\small\item\em getter for the vector of remaining party votes in an opl election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a2b4e27e67454a8d0ec0b62aa6642c736}{set\+Second\+Seats}} (vector$<$ int $>$ second\+Seats)
+\begin{DoxyCompactList}\small\item\em setter for the vector of second allocation party seats in an opl election. \end{DoxyCompactList}\item 
+vector$<$ int $>$ \mbox{\hyperlink{classOPL_a8127ea6d061f01772d5798b60f3e2e74}{get\+Second\+Seats}} ()
+\begin{DoxyCompactList}\small\item\em getter for the vector of second allocation party seats in an opl election. \end{DoxyCompactList}\item 
+vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ \mbox{\hyperlink{classOPL_adb678070fcbf3802ece1f44cd7cb95b4}{get\+List}} (char party)
+\begin{DoxyCompactList}\small\item\em getter for the vector of candidates by party in an opl election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a2dcfeeb2b68e9913ade00ca3b6794ff2}{push\+List}} (char party, \mbox{\hyperlink{classCandidate}{Candidate}} candidate)
+\begin{DoxyCompactList}\small\item\em adds candidate to a candidate vector by party in an opl election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_ab3df7ef43e5ea883d63fa9b59a1c2e14}{calculate\+Quota}} (int num\+Votes, int num\+Seats)
+\begin{DoxyCompactList}\small\item\em calculates and sets quota attribute. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classOPL_a09e07ccaf0074ce5426fff5dcbff90df}{get\+Quota}} ()
+\begin{DoxyCompactList}\small\item\em calculates and sets quota attribute. \end{DoxyCompactList}\item 
+vector$<$ int $>$ \mbox{\hyperlink{classOPL_a8ef19f0a8a9f855f65a457208e952338}{calculate\+Seat\+Allocation}} (vector$<$ int $>$ num\+Vote\+List, int quota)
+\begin{DoxyCompactList}\small\item\em calculates and sets seat allocations in an opl election. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_aa19191e594ab7e3d14c3f2c617c9aa70}{count\+Vote}} (int num\+Ballots)
+\begin{DoxyCompactList}\small\item\em builds a winner list based on seat allocations and party member votes. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{classOPL_a648b68553f0e699f790d9490771c550e}{unit\+Test}} ()
+\begin{DoxyCompactList}\small\item\em unit test for \mbox{\hyperlink{classOPL}{O\+PL}} class \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Additional Inherited Members}
+
+
+\doxysubsection{Detailed Description}
+This is the \mbox{\hyperlink{classOPL}{O\+PL}} class for the vote counting system. 
+
+This class will provide methods for the \mbox{\hyperlink{classOPL}{O\+PL}} election type 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classOPL_aee8e3e8733a174df302be1ee7b287a68}\label{classOPL_aee8e3e8733a174df302be1ee7b287a68}} 
+\index{OPL@{OPL}!OPL@{OPL}}
+\index{OPL@{OPL}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{OPL()}{OPL()}}
+{\footnotesize\ttfamily O\+P\+L\+::\+O\+PL (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Generation of an \mbox{\hyperlink{classOPL}{O\+PL}} object. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+\mbox{\hyperlink{classOPL}{O\+PL}} object to be used in election vote counting 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a22c35b5bf51f6b8f8451a48fcc1f88ba}\label{classOPL_a22c35b5bf51f6b8f8451a48fcc1f88ba}} 
+\index{OPL@{OPL}!````~OPL@{$\sim$OPL}}
+\index{````~OPL@{$\sim$OPL}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{$\sim$OPL()}{~OPL()}}
+{\footnotesize\ttfamily O\+P\+L\+::$\sim$\+O\+PL (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+destruction of an \mbox{\hyperlink{classOPL}{O\+PL}} object. 
+
+This function will be used for opl election purposes. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{classOPL_ab3df7ef43e5ea883d63fa9b59a1c2e14}\label{classOPL_ab3df7ef43e5ea883d63fa9b59a1c2e14}} 
+\index{OPL@{OPL}!calculateQuota@{calculateQuota}}
+\index{calculateQuota@{calculateQuota}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{calculateQuota()}{calculateQuota()}}
+{\footnotesize\ttfamily void O\+P\+L\+::calculate\+Quota (\begin{DoxyParamCaption}\item[{int}]{num\+Votes,  }\item[{int}]{num\+Seats }\end{DoxyParamCaption})}
+
+
+
+calculates and sets quota attribute. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of votes in an election \\
+\hline
+\mbox{\texttt{ in}}  & {\em int} & representing the number of seats in an election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a8ef19f0a8a9f855f65a457208e952338}\label{classOPL_a8ef19f0a8a9f855f65a457208e952338}} 
+\index{OPL@{OPL}!calculateSeatAllocation@{calculateSeatAllocation}}
+\index{calculateSeatAllocation@{calculateSeatAllocation}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{calculateSeatAllocation()}{calculateSeatAllocation()}}
+{\footnotesize\ttfamily vector$<$ int $>$ O\+P\+L\+::calculate\+Seat\+Allocation (\begin{DoxyParamCaption}\item[{vector$<$ int $>$}]{num\+Vote\+List,  }\item[{int}]{quota }\end{DoxyParamCaption})}
+
+
+
+calculates and sets seat allocations in an opl election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & vector representing the number of votes for each party in an election \\
+\hline
+\mbox{\texttt{ in}}  & {\em int} & representing the number quota in an opl election\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+vector of seat totals for each party 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_aa19191e594ab7e3d14c3f2c617c9aa70}\label{classOPL_aa19191e594ab7e3d14c3f2c617c9aa70}} 
+\index{OPL@{OPL}!countVote@{countVote}}
+\index{countVote@{countVote}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{countVote()}{countVote()}}
+{\footnotesize\ttfamily void O\+P\+L\+::count\+Vote (\begin{DoxyParamCaption}\item[{int}]{num\+Ballots }\end{DoxyParamCaption})}
+
+
+
+builds a winner list based on seat allocations and party member votes. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of votes in an election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a477cc6be2d922fcd4c8c7c9e36f8b719}\label{classOPL_a477cc6be2d922fcd4c8c7c9e36f8b719}} 
+\index{OPL@{OPL}!getDemVotes@{getDemVotes}}
+\index{getDemVotes@{getDemVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getDemVotes()}{getDemVotes()}}
+{\footnotesize\ttfamily int O\+P\+L\+::get\+Dem\+Votes (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the number of democrat votes in an election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the number of democrat votes in opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a94d84ef2d56873f407ecb07339039519}\label{classOPL_a94d84ef2d56873f407ecb07339039519}} 
+\index{OPL@{OPL}!getFirstSeats@{getFirstSeats}}
+\index{getFirstSeats@{getFirstSeats}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getFirstSeats()}{getFirstSeats()}}
+{\footnotesize\ttfamily vector$<$ int $>$ O\+P\+L\+::get\+First\+Seats (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the vector of first allocation party seats in an opl election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+vector of first allocation party seats in an opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a4763a3ac3a8c6544d62326b086054f68}\label{classOPL_a4763a3ac3a8c6544d62326b086054f68}} 
+\index{OPL@{OPL}!getIndVotes@{getIndVotes}}
+\index{getIndVotes@{getIndVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getIndVotes()}{getIndVotes()}}
+{\footnotesize\ttfamily int O\+P\+L\+::get\+Ind\+Votes (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the number of independent votes in an election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the number of independent votes in opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_adb678070fcbf3802ece1f44cd7cb95b4}\label{classOPL_adb678070fcbf3802ece1f44cd7cb95b4}} 
+\index{OPL@{OPL}!getList@{getList}}
+\index{getList@{getList}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getList()}{getList()}}
+{\footnotesize\ttfamily vector$<$ \mbox{\hyperlink{classCandidate}{Candidate}} $>$ O\+P\+L\+::get\+List (\begin{DoxyParamCaption}\item[{char}]{party }\end{DoxyParamCaption})}
+
+
+
+getter for the vector of candidates by party in an opl election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em char} & representing the party list to return\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+vector of candidates based on char input 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_aa9ee89de2086a7c9043107e983713d70}\label{classOPL_aa9ee89de2086a7c9043107e983713d70}} 
+\index{OPL@{OPL}!getNumSeats@{getNumSeats}}
+\index{getNumSeats@{getNumSeats}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getNumSeats()}{getNumSeats()}}
+{\footnotesize\ttfamily int O\+P\+L\+::get\+Num\+Seats (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the number of seats in an election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the number of seats in opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a09e07ccaf0074ce5426fff5dcbff90df}\label{classOPL_a09e07ccaf0074ce5426fff5dcbff90df}} 
+\index{OPL@{OPL}!getQuota@{getQuota}}
+\index{getQuota@{getQuota}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getQuota()}{getQuota()}}
+{\footnotesize\ttfamily int O\+P\+L\+::get\+Quota (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+calculates and sets quota attribute. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the quota in an opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a13787124362253d6851d47b7b0f4a1be}\label{classOPL_a13787124362253d6851d47b7b0f4a1be}} 
+\index{OPL@{OPL}!getRemainingVotes@{getRemainingVotes}}
+\index{getRemainingVotes@{getRemainingVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getRemainingVotes()}{getRemainingVotes()}}
+{\footnotesize\ttfamily vector$<$ int $>$ O\+P\+L\+::get\+Remaining\+Votes (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the vector of remaining party votes in an opl election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+vector of remaining party votes in an opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_af0f6cbd7765474885e1ea3de35747a4c}\label{classOPL_af0f6cbd7765474885e1ea3de35747a4c}} 
+\index{OPL@{OPL}!getRepVotes@{getRepVotes}}
+\index{getRepVotes@{getRepVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getRepVotes()}{getRepVotes()}}
+{\footnotesize\ttfamily int O\+P\+L\+::get\+Rep\+Votes (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the number of republican votes in an election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+int representing the number of republican votes in opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a8127ea6d061f01772d5798b60f3e2e74}\label{classOPL_a8127ea6d061f01772d5798b60f3e2e74}} 
+\index{OPL@{OPL}!getSecondSeats@{getSecondSeats}}
+\index{getSecondSeats@{getSecondSeats}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{getSecondSeats()}{getSecondSeats()}}
+{\footnotesize\ttfamily vector$<$ int $>$ O\+P\+L\+::get\+Second\+Seats (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+getter for the vector of second allocation party seats in an opl election. 
+
+This function will be used for opl election purposes.
+
+\begin{DoxyReturn}{Returns}
+vector of second allocation party seats in an opl election 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classOPL_a2dcfeeb2b68e9913ade00ca3b6794ff2}\label{classOPL_a2dcfeeb2b68e9913ade00ca3b6794ff2}} 
+\index{OPL@{OPL}!pushList@{pushList}}
+\index{pushList@{pushList}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{pushList()}{pushList()}}
+{\footnotesize\ttfamily void O\+P\+L\+::push\+List (\begin{DoxyParamCaption}\item[{char}]{party,  }\item[{\mbox{\hyperlink{classCandidate}{Candidate}}}]{candidate }\end{DoxyParamCaption})}
+
+
+
+adds candidate to a candidate vector by party in an opl election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em char} & representing the party list to add candidate to \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a892901ebd84758688f90564a3934849b}\label{classOPL_a892901ebd84758688f90564a3934849b}} 
+\index{OPL@{OPL}!setDemVotes@{setDemVotes}}
+\index{setDemVotes@{setDemVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setDemVotes()}{setDemVotes()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+Dem\+Votes (\begin{DoxyParamCaption}\item[{int}]{dem\+Votes }\end{DoxyParamCaption})}
+
+
+
+setter for the number of democrat votes in an election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of democrat votes in opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a49fe6ae4c41e86969627bdf919a1262e}\label{classOPL_a49fe6ae4c41e86969627bdf919a1262e}} 
+\index{OPL@{OPL}!setFirstSeats@{setFirstSeats}}
+\index{setFirstSeats@{setFirstSeats}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setFirstSeats()}{setFirstSeats()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+First\+Seats (\begin{DoxyParamCaption}\item[{vector$<$ int $>$}]{first\+Seats }\end{DoxyParamCaption})}
+
+
+
+setter for the vector of first allocation party seats in an opl election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em vector} & of first allocation party seats in an opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_afde63c1f66dbcc3230151828bcbf2166}\label{classOPL_afde63c1f66dbcc3230151828bcbf2166}} 
+\index{OPL@{OPL}!setIndVotes@{setIndVotes}}
+\index{setIndVotes@{setIndVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setIndVotes()}{setIndVotes()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+Ind\+Votes (\begin{DoxyParamCaption}\item[{int}]{ind\+Votes }\end{DoxyParamCaption})}
+
+
+
+setter for the number of independent votes in an election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of independent votes in opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a4223657db47195694ecf3eb30cc536ef}\label{classOPL_a4223657db47195694ecf3eb30cc536ef}} 
+\index{OPL@{OPL}!setNumSeats@{setNumSeats}}
+\index{setNumSeats@{setNumSeats}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setNumSeats()}{setNumSeats()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+Num\+Seats (\begin{DoxyParamCaption}\item[{int}]{num\+Seats }\end{DoxyParamCaption})}
+
+
+
+setter for the number of seats in an election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of seats in opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a4b42b5616af0a2d64cc730bacb684ca8}\label{classOPL_a4b42b5616af0a2d64cc730bacb684ca8}} 
+\index{OPL@{OPL}!setRemainingVotes@{setRemainingVotes}}
+\index{setRemainingVotes@{setRemainingVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setRemainingVotes()}{setRemainingVotes()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+Remaining\+Votes (\begin{DoxyParamCaption}\item[{vector$<$ int $>$}]{remaining\+Votes }\end{DoxyParamCaption})}
+
+
+
+setter for the vector of remaining party votes in an opl election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em vector} & of remaining party votes in an opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a7671204e95218f064a5321049b08b6a8}\label{classOPL_a7671204e95218f064a5321049b08b6a8}} 
+\index{OPL@{OPL}!setRepVotes@{setRepVotes}}
+\index{setRepVotes@{setRepVotes}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setRepVotes()}{setRepVotes()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+Rep\+Votes (\begin{DoxyParamCaption}\item[{int}]{rep\+Votes }\end{DoxyParamCaption})}
+
+
+
+setter for the number of republican votes in an election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em int} & representing the number of republican votes in opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a2b4e27e67454a8d0ec0b62aa6642c736}\label{classOPL_a2b4e27e67454a8d0ec0b62aa6642c736}} 
+\index{OPL@{OPL}!setSecondSeats@{setSecondSeats}}
+\index{setSecondSeats@{setSecondSeats}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{setSecondSeats()}{setSecondSeats()}}
+{\footnotesize\ttfamily void O\+P\+L\+::set\+Second\+Seats (\begin{DoxyParamCaption}\item[{vector$<$ int $>$}]{second\+Seats }\end{DoxyParamCaption})}
+
+
+
+setter for the vector of second allocation party seats in an opl election. 
+
+This function will be used for opl election purposes.
+
+
+\begin{DoxyParams}[1]{Parameters}
+\mbox{\texttt{ in}}  & {\em vector} & of seond allocation party seats in an opl election \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{classOPL_a648b68553f0e699f790d9490771c550e}\label{classOPL_a648b68553f0e699f790d9490771c550e}} 
+\index{OPL@{OPL}!unitTest@{unitTest}}
+\index{unitTest@{unitTest}!OPL@{OPL}}
+\doxysubsubsection{\texorpdfstring{unitTest()}{unitTest()}}
+{\footnotesize\ttfamily void O\+P\+L\+::unit\+Test (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+unit test for \mbox{\hyperlink{classOPL}{O\+PL}} class 
+
+This function will be used for to verify \mbox{\hyperlink{classOPL}{O\+PL}} works as desired 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/include/\mbox{\hyperlink{opl_8h}{opl.\+h}}\item 
+/home/trim0039/\+Desktop/5801/repo-\/\+Team25/\+Project1/src/src/opl.\+cpp\end{DoxyCompactItemize}
